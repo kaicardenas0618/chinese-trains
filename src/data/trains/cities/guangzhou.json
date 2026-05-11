@@ -1,0 +1,716 @@
+[
+  {
+    "id": "gz-a1",
+    "name": "GZ A1 Type A",
+    "description": "Used by GZ Metro Line 1. 6-car 6A train. Manufacturer: Adtranz / Siemens Mobility.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2950000,
+      "trainWidth": 3.1,
+      "minStationLength": 140,
+      "maxStationLength": 145,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F3D03E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "Adtranz",
+      "Siemens Mobility"
+    ]
+  },
+  {
+    "id": "gz-a7",
+    "name": "GZ A7 Type A",
+    "description": "Used by GZ Metro Line 13. 8-car 8A train. Manufacturer: CRRC Dalian.",
+    "stats": {
+      "maxAcceleration": 0.9,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 5200000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 52000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 390,
+      "carOperationalCostPerHour": 36,
+      "scissorsCrossoverCost": 23000000,
+      "trackClearance": 1.2,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 120,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.2,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#8D153A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Dalian"
+    ]
+  },
+  {
+    "id": "gz-a9",
+    "name": "GZ A9 Type A",
+    "description": "Used by GZ Metro Line 11. 8-car 8A train. Manufacturer: CRRC Zhuzhou Locomotive.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3900000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Zhuzhou Locomotive"
+    ]
+  },
+  {
+    "id": "gz-b1",
+    "name": "GZ B1 Type B",
+    "description": "Used by GZ Metro Line 3. 3-car 3B train. Manufacturer: Siemens Mobility / CRRC Zhuzhou Locomotive.",
+    "stats": {
+      "maxAcceleration": 0.9,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 37.5,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 3,
+      "maxCars": 3,
+      "carsPerCarSet": 3,
+      "carCost": 3300000,
+      "trainWidth": 2.8,
+      "minStationLength": 59,
+      "maxStationLength": 65,
+      "baseTrackCost": 43000,
+      "baseStationCost": 68000000,
+      "trainOperationalCostPerHour": 310,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 19000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.8,
+      "minTurnRadius": 220,
+      "minStationTurnRadius": 900,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 26,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "Siemens Mobility",
+      "CRRC Zhuzhou Locomotive"
+    ]
+  },
+  {
+    "id": "gz-b2",
+    "name": "GZ B2 Type B",
+    "description": "Used by GZ Metro Line 3. 6-car 6B train. Manufacturer: CRRC Zhuzhou Locomotive.",
+    "stats": {
+      "maxAcceleration": 0.9,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 37.5,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3300000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 43000,
+      "baseStationCost": 68000000,
+      "trainOperationalCostPerHour": 310,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 19000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.8,
+      "minTurnRadius": 220,
+      "minStationTurnRadius": 900,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Zhuzhou Locomotive"
+    ]
+  },
+  {
+    "id": "gz-b3-dkz29",
+    "name": "GZ B3 DKZ29 Type B",
+    "description": "Used by GZ Metro Line Guangfo. 4-car 4B train. Manufacturer: CRRC Changchun Railway Vehicles.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2450000,
+      "trainWidth": 2.8,
+      "minStationLength": 78,
+      "maxStationLength": 83,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 30,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B7BF10"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Changchun Railway Vehicles"
+    ]
+  },
+  {
+    "id": "gz-b5",
+    "name": "GZ B5 Type B",
+    "description": "Used by GZ Metro Line 7. 6-car 6B train. Manufacturer: Guangzhou CRRC Rail Transit Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2450000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 30,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#97D700"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "Guangzhou CRRC Rail Transit Equipment"
+    ]
+  },
+  {
+    "id": "gz-b10",
+    "name": "GZ B10 Type B",
+    "description": "Used by GZ Metro Line 3. 6-car 6B train. Manufacturer: CRRC Zhuzhou Locomotive.",
+    "stats": {
+      "maxAcceleration": 0.9,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 37.5,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3300000,
+      "trainWidth": 2.8,
+      "minStationLength": 59,
+      "maxStationLength": 65,
+      "baseTrackCost": 43000,
+      "baseStationCost": 68000000,
+      "trainOperationalCostPerHour": 310,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 19000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.8,
+      "minTurnRadius": 220,
+      "minStationTurnRadius": 900,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 26,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Zhuzhou Locomotive"
+    ]
+  },
+  {
+    "id": "gz-b11-ccd5059",
+    "name": "GZ B11 CCD5059 Type B",
+    "description": "Used by GZ Metro Line 3. 6-car 6B train. Manufacturer: CRRC Changchun Railway Vehicles.",
+    "stats": {
+      "maxAcceleration": 0.9,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 37.5,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3300000,
+      "trainWidth": 2.6,
+      "minStationLength": 59,
+      "maxStationLength": 65,
+      "baseTrackCost": 43000,
+      "baseStationCost": 68000000,
+      "trainOperationalCostPerHour": 310,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 19000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.8,
+      "minTurnRadius": 220,
+      "minStationTurnRadius": 900,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 26,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Changchun Railway Vehicles"
+    ]
+  },
+  {
+    "id": "gz-b12",
+    "name": "GZ B12 Type B",
+    "description": "Used by GZ Metro Line 7. 6-car 6B train. Manufacturer: CRRC Zhuzhou Locomotive.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2450000,
+      "trainWidth": 2.8,
+      "minStationLength": 59,
+      "maxStationLength": 65,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 30,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 26,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#97D700"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Zhuzhou Locomotive"
+    ]
+  },
+  {
+    "id": "gz-d1-line18-crrc-zhuzhou",
+    "name": "GZ D1 High-Speed Metro",
+    "description": "Used by Guangzhou Metro Line 18. 8-car 6M2T suburban Type D high-speed metro train. Manufacturer: CRRC Zhuzhou Locomotive.",
+    "stats": {
+      "maxAcceleration": 0.9,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 327,
+      "carLength": 23.25,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 4800000,
+      "trainWidth": 3.3,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 56000,
+      "baseStationCost": 90000000,
+      "trainOperationalCostPerHour": 420,
+      "carOperationalCostPerHour": 38,
+      "scissorsCrossoverCost": 24000000,
+      "trackClearance": 1.2,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 80,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.4,
+      "stopTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": { "color": "#0067B1" },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.8,
+      "STANDARD_TUNNEL": 2.5,
+      "CUT_AND_COVER": 1.3,
+      "AT_GRADE": 0.45,
+      "ELEVATED": 1.05
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": ["CRRC Zhuzhou Locomotive"]
+  },
+  {
+    "id": "gz-d2-line22-crrc-guangzhou",
+    "name": "GZ D2 High-Speed Metro",
+    "description": "Used by Guangzhou Metro Line 22. 8-car 6M2T suburban Type D high-speed metro train. Manufacturer: Guangzhou CRRC Rail Transit Equipment / CRRC Zhuzhou platform.",
+    "stats": {
+      "maxAcceleration": 0.9,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 327,
+      "carLength": 23.25,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 4800000,
+      "trainWidth": 3.3,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 56000,
+      "baseStationCost": 90000000,
+      "trainOperationalCostPerHour": 420,
+      "carOperationalCostPerHour": 38,
+      "scissorsCrossoverCost": 24000000,
+      "trackClearance": 1.2,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 80,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.4,
+      "stopTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": { "color": "#F28C28" },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.8,
+      "STANDARD_TUNNEL": 2.5,
+      "CUT_AND_COVER": 1.3,
+      "AT_GRADE": 0.45,
+      "ELEVATED": 1.05
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": ["Guangzhou CRRC Rail Transit Equipment", "CRRC Zhuzhou Locomotive"]
+  },
+  {
+    "id": "gz-l1-sfm03",
+    "name": "GZ L1 SFM03 Type LB Linear Metro",
+    "description": "Used by GZ Metro Line 4. 4-car 4LB train. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2450000,
+      "trainWidth": 2.8,
+      "minStationLength": 78,
+      "maxStationLength": 83,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 30,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00843D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "gz-l2-sfm08",
+    "name": "GZ L2 SFM08 Type LB Linear Metro",
+    "description": "Used by GZ Metro Line 5. 6-car 6LB train. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2450000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 30,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C5003E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "gz-apm100",
+    "name": "GZ APM100 Type APM",
+    "description": "Used by GZ Metro Line APM. 2-car 2x APM train. Manufacturer: Bombardier Transportation.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 16.67,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 2,
+      "maxCars": 2,
+      "carsPerCarSet": 2,
+      "carCost": 2950000,
+      "trainWidth": 3.1,
+      "minStationLength": 47,
+      "maxStationLength": 52,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "Bombardier Transportation"
+    ]
+  }
+]
