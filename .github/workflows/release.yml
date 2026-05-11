@@ -37,12 +37,10 @@ jobs:
         shell: bash
         run: |
           TAG_NAME="${GITHUB_REF_NAME}"
-          PACKAGE_DIR="chinese-trains-${TAG_NAME}"
-          ZIP_NAME="${PACKAGE_DIR}.zip"
+          ZIP_NAME="chinese-trains-${TAG_NAME}.zip"
 
-          mkdir -p "${PACKAGE_DIR}"
-          cp -R dist/. "${PACKAGE_DIR}/"
-          zip -r "${ZIP_NAME}" "${PACKAGE_DIR}"
+          cd dist
+          zip -r "../${ZIP_NAME}" .
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
