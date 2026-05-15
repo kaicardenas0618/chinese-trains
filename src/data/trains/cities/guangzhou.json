@@ -620,7 +620,7 @@
       "AT_GRADE": 0.28,
       "ELEVATED": 0.7
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Zhuzhou Locomotive"
     ]
