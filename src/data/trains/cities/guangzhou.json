@@ -386,7 +386,7 @@
     ]
   },
   {
-    "id": "gz-d1-line18-crrc-zhuzhou",
+    "id": "gz-d1",
     "name": "GZ D1 High-Speed Metro",
     "description": "Used by Guangzhou Metro Line 18. 8-car 6M2T suburban Type D high-speed metro train. Manufacturer: CRRC Zhuzhou Locomotive.",
     "stats": {
@@ -575,6 +575,54 @@
     "allowAtGradeRoadCrossing": false,
     "Manufacturer": [
       "Bombardier Transportation"
+    ]
+  },
+  {
+    "id": "gz-cnddb",
+    "name": "GZ CNDDB Tram",
+    "description": "Used by GZ Haizhu Tram Line. Manufacturer: CRRC Zhuzhou Locomotive.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 14,
+      "capacityPerCar": 95,
+      "carLength": 9.137,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3000000,
+      "trainWidth": 2.65,
+      "minStationLength": 34,
+      "maxStationLength": 40,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC Zhuzhou Locomotive"
     ]
   }
 ]
