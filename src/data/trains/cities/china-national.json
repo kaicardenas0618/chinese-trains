@@ -45,7 +45,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -96,7 +96,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -147,7 +147,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -198,7 +198,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -249,7 +249,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -300,7 +300,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -351,7 +351,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Tangshan",
       "CRRC Changchun"
@@ -403,7 +403,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Tangshan",
       "CRRC Changchun"
@@ -455,7 +455,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -506,7 +506,7 @@
       "AT_GRADE": 0.75,
       "ELEVATED": 1.5
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Bombardier Sifang"
     ]
@@ -557,7 +557,7 @@
       "AT_GRADE": 0.65,
       "ELEVATED": 1.35
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Tangshan",
       "Siemens"
@@ -609,7 +609,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -660,7 +660,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -711,7 +711,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -762,7 +762,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -813,7 +813,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun",
       "Alstom"
@@ -865,7 +865,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Bombardier Sifang"
     ]
@@ -916,7 +916,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Bombardier Sifang"
     ]
@@ -967,7 +967,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Bombardier Sifang"
     ]
@@ -1018,7 +1018,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang",
       "CRRC Guangdong"
@@ -1070,7 +1070,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang",
       "CRRC Guangdong"
@@ -1122,7 +1122,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Qingdao Sifang",
       "CRRC Guangdong"
@@ -1174,7 +1174,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Tangshan",
       "CRRC Nanjing Puzhen",
@@ -1228,7 +1228,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Tangshan",
       "CRRC Nanjing Puzhen",
@@ -1282,7 +1282,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun",
       "CRRC Tangshan",
@@ -1335,7 +1335,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun",
       "CRRC Tangshan",
@@ -1388,7 +1388,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun",
       "CRRC Tangshan",
