@@ -32,9 +32,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#B50000"
     },
@@ -83,9 +80,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#B50000"
     },
@@ -134,9 +128,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#B50000"
     },
@@ -185,9 +176,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#B8860B"
     },
@@ -236,9 +224,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -287,9 +272,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -338,9 +320,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -390,9 +369,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -442,9 +418,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -493,9 +466,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -544,9 +514,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -596,9 +563,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#2F6FED"
     },
@@ -647,9 +611,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -698,9 +659,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -749,9 +707,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -800,9 +755,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -852,9 +804,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -903,9 +852,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -954,9 +900,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1E3A91"
     },
@@ -1005,9 +948,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#FF8000"
     },
@@ -1057,9 +997,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#FF8000"
     },
@@ -1109,9 +1046,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#FF8000"
     },
@@ -1161,9 +1095,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1F6B35"
     },
@@ -1215,9 +1146,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#1F6B35"
     },
@@ -1269,9 +1197,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#006633"
     },
@@ -1322,9 +1247,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#006633"
     },
@@ -1375,9 +1297,6 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "compatibleTrackTypes": [
-      "national-rail"
-    ],
     "appearance": {
       "color": "#006633"
     },
@@ -1394,5 +1313,138 @@
       "CRRC Tangshan",
       "CRRC Nanjing Puzhen"
     ]
+  },
+  {
+    "id": "cr-160-city-region-emu",
+    "name": "CR160 City-Region",
+    "description": "Generic 160 km/h city-region EMU for future intercity-style routes that are not exactly CRH6A.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 180,
+      "carLength": 25.18,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3800000,
+      "trainWidth": 3.3,
+      "minStationLength": 201,
+      "maxStationLength": 212,
+      "baseTrackCost": 46000,
+      "baseStationCost": 78000000,
+      "trainOperationalCostPerHour": 420,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.8,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": { "color": "#FF8000" },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": ["CRRC"]
+  },
+  {
+    "id": "crh6a-a-short",
+    "name": "CRH6A-A Short",
+    "description": "4-car 200 km/h short intercity EMU for short intercity services such as Guangzhou-area branches.",
+    "stats": {
+      "maxAcceleration": 1.05,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 55.56,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 185,
+      "carLength": 25.35,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 4700000,
+      "trainWidth": 3.3,
+      "minStationLength": 101,
+      "maxStationLength": 110,
+      "baseTrackCost": 52000,
+      "baseStationCost": 60000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 36,
+      "scissorsCrossoverCost": 24000000,
+      "trackClearance": 1.25,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": { "color": "#FF8000" },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.7,
+      "STANDARD_TUNNEL": 2.45,
+      "CUT_AND_COVER": 1.25,
+      "AT_GRADE": 0.48,
+      "ELEVATED": 1.05
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": ["CRRC Qingdao Sifang"]
+  },
+  {
+    "id": "cr300af-fuxing",
+    "name": "CR300AF Fuxing",
+    "description": "8-car 250 km/h Fuxing EMU for 250 km/h HSR corridors such as Guiyang–Guangzhou and Nanning–Guangzhou.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 69.44,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 77,
+      "carLength": 26.12,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 6500000,
+      "trainWidth": 3.36,
+      "minStationLength": 209,
+      "maxStationLength": 219,
+      "baseTrackCost": 70000,
+      "baseStationCost": 130000000,
+      "trainOperationalCostPerHour": 610,
+      "carOperationalCostPerHour": 48,
+      "scissorsCrossoverCost": 33000000,
+      "trackClearance": 1.5,
+      "maxLateralAcceleration": 0.65,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.6,
+      "stopTimeSeconds": 75,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": { "color": "#2F6FED" },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.7,
+      "STANDARD_TUNNEL": 2.45,
+      "CUT_AND_COVER": 1.25,
+      "AT_GRADE": 0.48,
+      "ELEVATED": 1.05
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": ["CRRC Qingdao Sifang", "Bombardier Transportation", "CRRC Nanjing Puzhen"]
   }
 ]
+

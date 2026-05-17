@@ -1,0 +1,46 @@
+[
+    {
+    "id": "fs-b1-b",
+    "name": "FS B1 B",
+    "description": "Used by FS Metro Lines 2 and 3. 6-car Type B metro train.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 260,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2700000,
+      "trainWidth": 2.9,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 52000000,
+      "trainOperationalCostPerHour": 235,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 14500000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": { "color": "#D71920" },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": ["CRRC Qingdao Sifang", "CRRC Zhuzhou"]
+  }
+]
