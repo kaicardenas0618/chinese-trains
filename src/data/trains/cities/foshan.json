@@ -1,8 +1,8 @@
 [
-    {
-    "id": "fs-b1-b",
-    "name": "FS B1 B",
-    "description": "Used by FS Metro Lines 2 and 3. 6-car Type B metro train.",
+  {
+    "id": "fs-sfm53-b",
+    "name": "FS SFM53 B",
+    "description": "Foshan Metro Line 2 6-car Type B train. 4M2T, 100 km/h operating class, 120 km/h design-speed equipment.",
     "stats": {
       "maxAcceleration": 1.0,
       "maxDeceleration": 1.1,
@@ -32,7 +32,9 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0
     },
-    "appearance": { "color": "#D71920" },
+    "appearance": {
+      "color": "#D71920"
+    },
     "elevationMultipliers": {
       "DEEP_BORE": 3.8,
       "STANDARD_TUNNEL": 1.9,
@@ -41,6 +43,349 @@
       "ELEVATED": 0.75
     },
     "allowAtGradeRoadCrossing": false,
-    "Manufacturer": ["CRRC Qingdao Sifang", "CRRC Zhuzhou"]
+    "Manufacturer": [
+      "Foshan CRRC Sifang",
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "fs-sfm9x-b",
+    "name": "FS SFM9x B",
+    "description": "Foshan Metro Line 2 later 6-car Type B train family. 4M2T, 100 km/h operating class, 120 km/h design-speed equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 260,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2750000,
+      "trainWidth": 2.9,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 52000000,
+      "trainOperationalCostPerHour": 235,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 14500000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D71920"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "Foshan CRRC Sifang",
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "fs-sfm105-b",
+    "name": "FS SFM105 B",
+    "description": "Foshan Metro Line 3 6-car Type B train. 4M2T with permanent-magnet traction, 100 km/h operating class, 120 km/h design-speed equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 260,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2850000,
+      "trainWidth": 2.9,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 52000000,
+      "trainOperationalCostPerHour": 235,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 14500000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#0067B1"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "Foshan CRRC Sifang",
+      "CRRC Qingdao Sifang",
+      "CRRC Guangdong"
+    ]
+  },
+  {
+    "id": "fs-line4-b",
+    "name": "FS Line4 B",
+    "description": "Foshan Metro Line 4 planned 6-car Type B fully automated train. 100 km/h class.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 260,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.9,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 235,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 14500000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#8E44AD"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.32,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC"
+    ]
+  },
+  {
+    "id": "fs-line11-b",
+    "name": "FS Line11 B",
+    "description": "Foshan Metro Line 11 planned 6-car Type B train. 100 km/h class.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 260,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.9,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 235,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 14500000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F6BE00"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.32,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": false,
+    "Manufacturer": [
+      "CRRC"
+    ]
+  },
+  {
+    "id": "fs-nanhai-tram",
+    "name": "FS Nanhai Tram",
+    "description": "Nanhai Tram Line 1 / Nanhai New Transit 3-section low-floor bidirectional tram. CRRC Sifang stock, 70 km/h class.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 396,
+      "carLength": 35.2,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 3500000,
+      "trainWidth": 2.65,
+      "minStationLength": 35,
+      "maxStationLength": 44,
+      "baseTrackCost": 15000,
+      "baseStationCost": 10000000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "fs-lishui-tram",
+    "name": "FS Lishui Tram",
+    "description": "Nanhai Lishui demonstration tram 3-module hydrogen plus lithium-titanate battery tram. 70 km/h operating class, 80 km/h design class.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 280,
+      "carLength": 35.0,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 3600000,
+      "trainWidth": 2.65,
+      "minStationLength": 35,
+      "maxStationLength": 44,
+      "baseTrackCost": 15000,
+      "baseStationCost": 9000000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "fs-gaoming-tram",
+    "name": "FS Gaoming Tram",
+    "description": "Gaoming hydrogen fuel-cell tram. 3-section low-floor bidirectional tram, 70 km/h class.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 285,
+      "carLength": 32.0,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 3800000,
+      "trainWidth": 2.65,
+      "minStationLength": 32,
+      "maxStationLength": 41,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8000000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#4CA585"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang",
+      "Škoda"
+    ]
   }
 ]
