@@ -34,7 +34,7 @@
     },
     "appearance": { "color": "#F3D03E" },
     "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Adtranz", "Siemens Mobility"]
   },
   {
@@ -72,7 +72,7 @@
     },
     "appearance": { "color": "#0067B1" },
     "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CNR Changchun", "Bombardier Transportation"]
   },
   {
@@ -110,7 +110,7 @@
     },
     "appearance": { "color": "#F3D03E" },
     "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Changchun Bombardier"]
   },
   {
@@ -148,7 +148,7 @@
     },
     "appearance": { "color": "#0067B1" },
     "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CSR Zhuzhou"]
   },
   {
@@ -187,7 +187,7 @@
     },
     "appearance": { "color": "#008C95" },
     "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -225,7 +225,7 @@
     },
     "appearance": { "color": "#008C95" },
     "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -263,7 +263,7 @@
     },
     "appearance": { "color": "#8D153A" },
     "elevationMultipliers": { "DEEP_BORE": 4.3, "STANDARD_TUNNEL": 2.2, "CUT_AND_COVER": 1.1, "AT_GRADE": 0.38, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Dalian"]
   },
   {
@@ -301,7 +301,7 @@
     },
     "appearance": { "color": "#008C95" },
     "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Changchun"]
   },
   {
@@ -339,7 +339,7 @@
     },
     "appearance": { "color": "#7B6469" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.35, "ELEVATED": 0.85 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -377,7 +377,7 @@
     },
     "appearance": { "color": "#59621D" },
     "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -415,7 +415,7 @@
     },
     "appearance": { "color": "#8D153A" },
     "elevationMultipliers": { "DEEP_BORE": 4.3, "STANDARD_TUNNEL": 2.2, "CUT_AND_COVER": 1.1, "AT_GRADE": 0.38, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Dalian"]
   },
   {
@@ -453,7 +453,7 @@
     },
     "appearance": { "color": "#F58220" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CSR Zhuzhou", "Siemens Mobility"]
   },
   {
@@ -491,7 +491,7 @@
     },
     "appearance": { "color": "#F58220" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -529,7 +529,7 @@
     },
     "appearance": { "color": "#B7BF10" },
     "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Changchun"]
   },
   {
@@ -567,7 +567,7 @@
     },
     "appearance": { "color": "#B7BF10" },
     "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang"]
   },
   {
@@ -605,7 +605,7 @@
     },
     "appearance": { "color": "#B7BF10" },
     "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Foshan CRRC Sifang"]
   },
   {
@@ -643,7 +643,7 @@
     },
     "appearance": { "color": "#F58220" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -681,7 +681,7 @@
     },
     "appearance": { "color": "#97D700" },
     "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Guangzhou CRRC"]
   },
   {
@@ -719,7 +719,7 @@
     },
     "appearance": { "color": "#71C5E8" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Guangzhou CRRC"]
   },
   {
@@ -757,7 +757,7 @@
     },
     "appearance": { "color": "#81312F" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Guangzhou CRRC"]
   },
   {
@@ -795,7 +795,7 @@
     },
     "appearance": { "color": "#201747" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Guangzhou CRRC"]
   },
   {
@@ -833,7 +833,7 @@
     },
     "appearance": { "color": "#97D700" },
     "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang"]
   },
   {
@@ -871,7 +871,7 @@
     },
     "appearance": { "color": "#F58220" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -909,7 +909,7 @@
     },
     "appearance": { "color": "#F58220" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Changchun"]
   },
   {
@@ -947,7 +947,7 @@
     },
     "appearance": { "color": "#97D700" },
     "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -985,7 +985,7 @@
     },
     "appearance": { "color": "#8B6F4E" },
     "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -1023,7 +1023,7 @@
     },
     "appearance": { "color": "#81312F" },
     "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Guangzhou CRRC"]
   },
   {
@@ -1061,7 +1061,7 @@
     },
     "appearance": { "color": "#0067B1" },
     "elevationMultipliers": { "DEEP_BORE": 4.8, "STANDARD_TUNNEL": 2.5, "CUT_AND_COVER": 1.3, "AT_GRADE": 0.45, "ELEVATED": 1.05 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Zhuzhou"]
   },
   {
@@ -1099,7 +1099,7 @@
     },
     "appearance": { "color": "#F28C28" },
     "elevationMultipliers": { "DEEP_BORE": 4.8, "STANDARD_TUNNEL": 2.5, "CUT_AND_COVER": 1.3, "AT_GRADE": 0.45, "ELEVATED": 1.05 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Guangzhou CRRC", "CRRC Zhuzhou"]
   },
   {
@@ -1137,7 +1137,7 @@
     },
     "appearance": { "color": "#00843D" },
     "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang"]
   },
   {
@@ -1175,7 +1175,7 @@
     },
     "appearance": { "color": "#C5003E" },
     "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang"]
   },
   {
@@ -1213,7 +1213,7 @@
     },
     "appearance": { "color": "#80276C" },
     "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang"]
   },
   {
@@ -1251,7 +1251,7 @@
     },
     "appearance": { "color": "#C5003E" },
     "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang"]
   },
   {
@@ -1289,7 +1289,7 @@
     },
     "appearance": { "color": "#00843D" },
     "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Guangdong"]
   },
   {
@@ -1327,7 +1327,7 @@
     },
     "appearance": { "color": "#80276C" },
     "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Guangdong"]
   },
   {
@@ -1365,7 +1365,7 @@
     },
     "appearance": { "color": "#C5003E" },
     "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Guangdong"]
   },
   {
@@ -1403,7 +1403,7 @@
     },
     "appearance": { "color": "#00A3E0" },
     "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["Bombardier Transportation"]
   },
   {

@@ -1355,7 +1355,7 @@
       "AT_GRADE": 0.4,
       "ELEVATED": 0.95
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC"]
   },
   {
@@ -1399,7 +1399,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang"]
   },
   {
@@ -1443,7 +1443,7 @@
       "AT_GRADE": 0.48,
       "ELEVATED": 1.05
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang", "Bombardier Transportation", "CRRC Nanjing Puzhen"]
   }
 ]

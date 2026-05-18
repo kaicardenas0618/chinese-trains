@@ -42,7 +42,7 @@
       "AT_GRADE": 0.3,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Adtranz"
     ]
@@ -90,7 +90,7 @@
       "AT_GRADE": 0.3,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Alstom",
       "CRRC Nanjing Puzhen"
@@ -139,7 +139,7 @@
       "AT_GRADE": 0.28,
       "ELEVATED": 0.7
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Shanghai Alstom"
     ]
@@ -187,7 +187,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun",
       "Shanghai Alstom"
@@ -236,7 +236,7 @@
       "AT_GRADE": 0.28,
       "ELEVATED": 0.7
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Shanghai Alstom"
     ]
@@ -284,7 +284,7 @@
       "AT_GRADE": 0.28,
       "ELEVATED": 0.7
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun",
       "Shanghai Alstom"
@@ -333,7 +333,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Nanjing Puzhen",
       "Shanghai Alstom"
@@ -382,7 +382,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Zhuzhou Locomotive"
     ]
@@ -430,7 +430,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Nanjing Puzhen"
     ]
@@ -478,7 +478,7 @@
       "AT_GRADE": 0.42,
       "ELEVATED": 1
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Zhuzhou Locomotive"
     ]
@@ -526,7 +526,7 @@
       "AT_GRADE": 0.42,
       "ELEVATED": 1
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Zhuzhou Locomotive"
     ]
@@ -574,7 +574,7 @@
       "AT_GRADE": 0.28,
       "ELEVATED": 0.7
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Puzhen Bombardier Transportation Systems"
     ]
@@ -622,7 +622,7 @@
       "AT_GRADE": 0.35,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC Changchun Railway Vehicles"
     ]

@@ -42,7 +42,7 @@
       "AT_GRADE": 0.3,
       "ELEVATED": 0.75
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Foshan CRRC Sifang",
       "CRRC Qingdao Sifang"
@@ -91,7 +91,7 @@
       "AT_GRADE": 0.3,
       "ELEVATED": 0.75
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Foshan CRRC Sifang",
       "CRRC Qingdao Sifang"
@@ -140,7 +140,7 @@
       "AT_GRADE": 0.3,
       "ELEVATED": 0.75
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Foshan CRRC Sifang",
       "CRRC Qingdao Sifang",
@@ -190,7 +190,7 @@
       "AT_GRADE": 0.32,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC"
     ]
@@ -238,7 +238,7 @@
       "AT_GRADE": 0.32,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": false,
+    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "CRRC"
     ]
