@@ -1,0 +1,2658 @@
+[
+  {
+    "id": "bj-dkz4",
+    "name": "BJ DKZ4 B",
+    "description": "Beijing DKZ4 6-car Type B train. Used on Line 1/Batong. Manufacturer: Changchun Passenger Car Factory / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A4343A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Changchun Passenger Car Factory",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-dkz5",
+    "name": "BJ DKZ5 B",
+    "description": "Beijing DKZ5 6-car Type B train. Used on Line 13. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F7A800"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-dkz6",
+    "name": "BJ DKZ6 B",
+    "description": "Beijing DKZ6 6-car Type B train. Used on Line 13. Manufacturer: CNR Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F7A800"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun"
+    ]
+  },
+  {
+    "id": "bj-sfm01",
+    "name": "BJ SFM01 B",
+    "description": "Beijing SFM01 6-car Type B train. Used on Line 1/Batong. Manufacturer: CSR Qingdao Sifang / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A4343A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CSR Qingdao Sifang",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-sfm02",
+    "name": "BJ SFM02 B",
+    "description": "Beijing SFM02 6-car Type B train. Used on Line 1/Batong. Manufacturer: CSR Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A4343A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CSR Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-dkz13",
+    "name": "BJ DKZ13 B",
+    "description": "Beijing DKZ13 6-car Type B train. Used on Line 5. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A05EB5"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-dkz16",
+    "name": "BJ DKZ16 B",
+    "description": "Beijing DKZ16 6-car Type B train. Used on Line 2. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#003DA5"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-sfm04",
+    "name": "BJ SFM04 B",
+    "description": "Beijing SFM04 6-car Type B train. Used on Line 1/Batong. Manufacturer: CSR Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A4343A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CSR Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-dkz15",
+    "name": "BJ DKZ15 B",
+    "description": "Beijing DKZ15 6-car Type B train. Used on Line 10. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment / CNR Dalian.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment",
+      "CNR Dalian"
+    ]
+  },
+  {
+    "id": "bj-sfm05",
+    "name": "BJ SFM05 B",
+    "description": "Beijing SFM05 6-car Type B train. Used on Line 4/Daxing. Manufacturer: CSR Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00843D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CSR Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-sfm07",
+    "name": "BJ SFM07 B",
+    "description": "Beijing SFM07 6-car Type B train. Used on Line 1/Batong. Manufacturer: CSR Qingdao Sifang / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A4343A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CSR Qingdao Sifang",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-bjd01",
+    "name": "BJ BJD01 B",
+    "description": "Beijing BJD01 6-car Type B train. Used on Line Fangshan. Manufacturer: Beijing Subway Rolling Stock Equipment / CNR Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D71920"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment",
+      "CNR Changchun"
+    ]
+  },
+  {
+    "id": "bj-sfm13",
+    "name": "BJ SFM13 B",
+    "description": "Beijing SFM13 6-car Type B train. Used on Line Changping. Manufacturer: CSR Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D71920"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CSR Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-dkz31",
+    "name": "BJ DKZ31 B",
+    "description": "Beijing DKZ31 6-car Type B train. Used on Line 15. Manufacturer: CNR Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#653279"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun"
+    ]
+  },
+  {
+    "id": "bj-dkz32",
+    "name": "BJ DKZ32 B",
+    "description": "Beijing DKZ32 6-car Type B train. Used on Line Yizhuang. Manufacturer: CNR Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C50084"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun"
+    ]
+  },
+  {
+    "id": "bj-sfm12",
+    "name": "BJ SFM12 B",
+    "description": "Beijing SFM12 6-car Type B train. Used on Line 8. Manufacturer: CSR Qingdao Sifang / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#009CA6"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CSR Qingdao Sifang",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-dkz33",
+    "name": "BJ DKZ33 B",
+    "description": "Beijing DKZ33 6-car Type B train. Used on Line 9. Manufacturer: CNR Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun"
+    ]
+  },
+  {
+    "id": "bj-dkz34",
+    "name": "BJ DKZ34 B",
+    "description": "Beijing DKZ34 6-car Type B train. Used on Line 10. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment / CNR Dalian.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment",
+      "CNR Dalian"
+    ]
+  },
+  {
+    "id": "bj-dkz47",
+    "name": "BJ DKZ47 B",
+    "description": "Beijing DKZ47 8-car Type B train. Used on Line 6. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 2600000,
+      "trainWidth": 2.8,
+      "minStationLength": 156,
+      "maxStationLength": 165,
+      "baseTrackCost": 35000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 500,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 36,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B58500"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-dkz53",
+    "name": "BJ DKZ53 A",
+    "description": "Beijing DKZ53 6-car Type A train. Used on Line 14. Manufacturer: CNR Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 3.1,
+      "minStationLength": 140,
+      "maxStationLength": 145,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D6001C"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun"
+    ]
+  },
+  {
+    "id": "bj-sfm18",
+    "name": "BJ SFM18 A",
+    "description": "Beijing SFM18 6-car Type A train. Used on Line 14. Manufacturer: CSR Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 3.1,
+      "minStationLength": 140,
+      "maxStationLength": 145,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D6001C"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CSR Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-bdk01",
+    "name": "BJ BDK01 B",
+    "description": "Beijing BDK01 8-car Type B train. Used on Line 7. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 2600000,
+      "trainWidth": 2.8,
+      "minStationLength": 156,
+      "maxStationLength": 165,
+      "baseTrackCost": 35000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 500,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 36,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-sfm21",
+    "name": "BJ SFM21 B",
+    "description": "Beijing SFM21 6-car Type B train. Used on Line Changping. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D71920"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-dkz76",
+    "name": "BJ DKZ76 B",
+    "description": "Beijing DKZ76 4-car Type B train. Used on Line Yanfang. Manufacturer: CRRC Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2400000,
+      "trainWidth": 2.8,
+      "minStationLength": 78,
+      "maxStationLength": 83,
+      "baseTrackCost": 30000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 180,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 28,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#E57200"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "bj-sfm16",
+    "name": "BJ SFM16 B",
+    "description": "Beijing SFM16 4-car Type B train. Used on Line Yanfang. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2400000,
+      "trainWidth": 2.8,
+      "minStationLength": 78,
+      "maxStationLength": 83,
+      "baseTrackCost": 30000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 180,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 28,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#E57200"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-dkz93",
+    "name": "BJ DKZ93 A",
+    "description": "Beijing DKZ93 8-car Type A train. Used on Line 16. Manufacturer: CRRC Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#76BC21"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "bj-sfm40",
+    "name": "BJ SFM40 A",
+    "description": "Beijing SFM40 8-car Type A train. Used on Line 16. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#76BC21"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-sfm42",
+    "name": "BJ SFM42 B",
+    "description": "Beijing SFM42 6-car Type B train. Used on Line 8. Manufacturer: CRRC Qingdao Sifang / Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#009CA6"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang",
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-dkz106",
+    "name": "BJ DKZ106 B",
+    "description": "Beijing DKZ106 8-car Type B train. Used on Line 6. Manufacturer: CRRC Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 2600000,
+      "trainWidth": 2.8,
+      "minStationLength": 156,
+      "maxStationLength": 165,
+      "baseTrackCost": 35000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 500,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 36,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B58500"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "bj-bdk03",
+    "name": "BJ BDK03 B",
+    "description": "Beijing BDK03 6-car Type B train. Used on Line Fangshan. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D71920"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-bdk04",
+    "name": "BJ BDK04 B",
+    "description": "Beijing BDK04 6-car Type B train. Used on Line 9. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-bdk05",
+    "name": "BJ BDK05 B",
+    "description": "Beijing BDK05 8-car Type B train. Used on Line 7. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 2600000,
+      "trainWidth": 2.8,
+      "minStationLength": 156,
+      "maxStationLength": 165,
+      "baseTrackCost": 35000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 500,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 36,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-bdk06",
+    "name": "BJ BDK06 B",
+    "description": "Beijing BDK06 6-car Type B train. Used on Line 1/Batong. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A4343A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-gsye20",
+    "name": "BJ GSYE20 D Express",
+    "description": "Beijing GSYE20 8-car Type D Express train. Used on Line Daxing Airport. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 240,
+      "carLength": 23.25,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 5000000,
+      "trainWidth": 3.3,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 56000,
+      "baseStationCost": 90000000,
+      "trainOperationalCostPerHour": 420,
+      "carOperationalCostPerHour": 38,
+      "scissorsCrossoverCost": 24000000,
+      "trackClearance": 1.2,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.4,
+      "stopTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#224C8D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-gsye23",
+    "name": "BJ GSYE23 D Express",
+    "description": "Beijing GSYE23 4-car Type D Express train. Used on Line Daxing Airport. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 240,
+      "carLength": 23.25,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 5000000,
+      "trainWidth": 3.3,
+      "minStationLength": 93,
+      "maxStationLength": 98,
+      "baseTrackCost": 56000,
+      "baseStationCost": 90000000,
+      "trainOperationalCostPerHour": 420,
+      "carOperationalCostPerHour": 38,
+      "scissorsCrossoverCost": 24000000,
+      "trackClearance": 1.2,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.4,
+      "stopTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#224C8D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-cj3",
+    "name": "BJ CJ3 D Express",
+    "description": "Beijing CJ3 8-car Type D Express train. Used on Line Daxing Airport. Manufacturer: CRRC Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 240,
+      "carLength": 23.25,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 5000000,
+      "trainWidth": 3.3,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 56000,
+      "baseStationCost": 90000000,
+      "trainOperationalCostPerHour": 420,
+      "carOperationalCostPerHour": 38,
+      "scissorsCrossoverCost": 24000000,
+      "trackClearance": 1.2,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.4,
+      "stopTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#224C8D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "bj-sfm79",
+    "name": "BJ SFM79 A",
+    "description": "Beijing SFM79 8-car Type A train. Used on Line 17. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A9CE"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-ccd5035",
+    "name": "BJ CCD5035 A",
+    "description": "Beijing CCD5035 8-car Type A train. Used on Line 17. Manufacturer: CRRC Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A9CE"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "bj-sfm80",
+    "name": "BJ SFM80 A",
+    "description": "Beijing SFM80 8-car Type A train. Used on Line 19. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C5003E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-ccd5034",
+    "name": "BJ CCD5034 A",
+    "description": "Beijing CCD5034 8-car Type A train. Used on Line 19. Manufacturer: CRRC Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C5003E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "bj-zbm04",
+    "name": "BJ ZBM04 A",
+    "description": "Beijing ZBM04 4-car Type A train. Used on Line 11. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3000000,
+      "trainWidth": 3.1,
+      "minStationLength": 93,
+      "maxStationLength": 98,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#E57200"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-ccd3004",
+    "name": "BJ CCD3004 LB Linear",
+    "description": "Beijing CCD3004 4-car Type LB Linear train. Used on Line Capital Airport. Manufacturer: CRRC Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 185,
+      "carLength": 16.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3300000,
+      "trainWidth": 2.8,
+      "minStationLength": 66,
+      "maxStationLength": 71,
+      "baseTrackCost": 43000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 19000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.8,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 900,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 36,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A7A8AA"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "bj-zbm06",
+    "name": "BJ ZBM06 A",
+    "description": "Beijing ZBM06 8-car Type A train. Used on Line 3. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D99A30"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-sfm86",
+    "name": "BJ SFM86 A",
+    "description": "Beijing SFM86 8-car Type A train. Used on Line 3. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D99A30"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-bdk07",
+    "name": "BJ BDK07 B",
+    "description": "Beijing BDK07 6-car Type B train. Used on Line Changping. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D71920"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-sfm93",
+    "name": "BJ SFM93 B",
+    "description": "Beijing SFM93 6-car Type B train. Used on Line Changping. Manufacturer: CRRC Qingdao Sifang.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D71920"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "bj-bdk08",
+    "name": "BJ BDK08 B",
+    "description": "Beijing BDK08 6-car Type B train. Used on Line 15. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.7,
+      "stopTimeSeconds": 31,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#653279"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-ccd5049",
+    "name": "BJ CCD5049 A",
+    "description": "Beijing CCD5049 8-car Type A train. Used on Line 12. Manufacturer: CRRC Changchun.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6B3F23"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "bj-zbm05",
+    "name": "BJ ZBM05 A",
+    "description": "Beijing ZBM05 8-car Type A train. Used on Line 12. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 310,
+      "carLength": 23.3,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3300000,
+      "trainWidth": 3.1,
+      "minStationLength": 186,
+      "maxStationLength": 195,
+      "baseTrackCost": 39000,
+      "baseStationCost": 76000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 18000000,
+      "trackClearance": 1.1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 60,
+      "minStationTurnRadius": 550,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 38,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6B3F23"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-zbm13",
+    "name": "BJ ZBM13 B",
+    "description": "Beijing ZBM13 8-car Type B train. Used on Line 6. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 2600000,
+      "trainWidth": 2.8,
+      "minStationLength": 156,
+      "maxStationLength": 165,
+      "baseTrackCost": 35000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 50,
+      "minStationTurnRadius": 500,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 36,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B58500"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-zbm15",
+    "name": "BJ ZBM15 B",
+    "description": "Beijing ZBM15 6-car Type B train. Used on Line 13. Manufacturer: Beijing Subway Rolling Stock Equipment.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 245,
+      "carLength": 19.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2350000,
+      "trainWidth": 2.8,
+      "minStationLength": 117,
+      "maxStationLength": 122,
+      "baseTrackCost": 29000,
+      "baseStationCost": 50000000,
+      "trainOperationalCostPerHour": 225,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13000000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 350,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F7A800"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ]
+  },
+  {
+    "id": "bj-qkz5-lb-linear",
+    "name": "BJ QKZ5 LB Linear",
+    "description": "Beijing QKZ5 4-car linear-motor train. Used on the Capital Airport Express. Manufacturer: CNR Changchun / Bombardier.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 185,
+      "carLength": 16.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3300000,
+      "trainWidth": 2.8,
+      "minStationLength": 66,
+      "maxStationLength": 71,
+      "baseTrackCost": 43000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 19000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.8,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 900,
+      "maxSlopePercentage": 4.0,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 36,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A7A8AA"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CNR Changchun",
+      "Bombardier Transportation"
+    ]
+  },
+  {
+    "id": "bj-s1-maglev",
+    "name": "BJ S1 Maglev",
+    "description": "Beijing S1 Line 6-car medium-low-speed maglev train. Manufacturer: CRRC Tangshan / Beijing Enterprises Holdings Maglev.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 172,
+      "carLength": 15.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 4200000,
+      "trainWidth": 2.8,
+      "minStationLength": 90,
+      "maxStationLength": 95,
+      "baseTrackCost": 52000,
+      "baseStationCost": 70000000,
+      "trainOperationalCostPerHour": 330,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 26000000,
+      "trackClearance": 1.2,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 450,
+      "maxSlopePercentage": 5.3,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 35,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B5BD00"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Tangshan",
+      "Beijing Enterprises Holdings Maglev"
+    ]
+  },
+  {
+    "id": "bj-xijiao-tram",
+    "name": "BJ Xijiao Tram",
+    "description": "Beijing Xijiao Line 5-car light rail/tram train. Overhead-wire LRT stock, 70 km/h class.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 60,
+      "carLength": 6.5,
+      "minCars": 5,
+      "maxCars": 5,
+      "carsPerCarSet": 5,
+      "carCost": 900000,
+      "trainWidth": 2.65,
+      "minStationLength": 32,
+      "maxStationLength": 37,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8000000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#E40046"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC"
+    ]
+  },
+  {
+    "id": "bj-yizhuang-t1-tram",
+    "name": "BJ Yizhuang T1 Tram",
+    "description": "Beijing Yizhuang Tram T1 5-car light rail/tram train. Overhead-wire LRT stock, 70 km/h class.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 60,
+      "carLength": 6.5,
+      "minCars": 5,
+      "maxCars": 5,
+      "carsPerCarSet": 5,
+      "carCost": 900000,
+      "trainWidth": 2.65,
+      "minStationLength": 32,
+      "maxStationLength": 37,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8000000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC"
+    ]
+  }
+]

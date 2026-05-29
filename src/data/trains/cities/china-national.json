@@ -1445,6 +1445,539 @@
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": ["CRRC Qingdao Sifang", "Bombardier Transportation", "CRRC Nanjing Puzhen"]
+  },
+  {
+    "id": "cr400bf",
+    "name": "CR400BF Fuxing",
+    "description": "8-car 350 km/h Fuxing high-speed EMU common on Beijing-originating G-class services.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 97.22,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 72,
+      "carLength": 26.14,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 9200000,
+      "trainWidth": 3.36,
+      "minStationLength": 209,
+      "maxStationLength": 219,
+      "baseTrackCost": 95000,
+      "baseStationCost": 180000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 62,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B8860B"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun",
+      "CRRC Tangshan"
+    ]
+  },
+  {
+    "id": "cr400bf-a",
+    "name": "CR400BF-A Long",
+    "description": "16-car 350 km/h long-formation Fuxing high-speed EMU used on high-demand trunk HSR services from Beijing.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 97.22,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 80,
+      "carLength": 25.65,
+      "minCars": 16,
+      "maxCars": 16,
+      "carsPerCarSet": 16,
+      "carCost": 9000000,
+      "trainWidth": 3.36,
+      "minStationLength": 410,
+      "maxStationLength": 430,
+      "baseTrackCost": 105000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 60,
+      "scissorsCrossoverCost": 46000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 120,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B8860B"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun",
+      "CRRC Tangshan"
+    ]
+  },
+  {
+    "id": "cr400bf-b",
+    "name": "CR400BF-B Long",
+    "description": "17-car 350 km/h Fuxing high-capacity long set used on selected Beijing trunk HSR services.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 97.22,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 80,
+      "carLength": 25.88,
+      "minCars": 17,
+      "maxCars": 17,
+      "carsPerCarSet": 17,
+      "carCost": 9300000,
+      "trainWidth": 3.36,
+      "minStationLength": 440,
+      "maxStationLength": 460,
+      "baseTrackCost": 105000,
+      "baseStationCost": 275000000,
+      "trainOperationalCostPerHour": 1320,
+      "carOperationalCostPerHour": 62,
+      "scissorsCrossoverCost": 46000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 130,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B8860B"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun",
+      "CRRC Tangshan"
+    ]
+  },
+  {
+    "id": "cr400bf-z",
+    "name": "CR400BF-Z Smart",
+    "description": "8-car 350 km/h smart-cabin Fuxing EMU used on Beijing-area HSR services.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 97.22,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 72,
+      "carLength": 26.14,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 9500000,
+      "trainWidth": 3.36,
+      "minStationLength": 209,
+      "maxStationLength": 219,
+      "baseTrackCost": 95000,
+      "baseStationCost": 180000000,
+      "trainOperationalCostPerHour": 790,
+      "carOperationalCostPerHour": 63,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B8860B"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun",
+      "CRRC Tangshan"
+    ]
+  },
+  {
+    "id": "cr400af-z",
+    "name": "CR400AF-Z Smart",
+    "description": "8-car 350 km/h smart-cabin Fuxing EMU used on Beijing-area HSR services.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 97.22,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 72,
+      "carLength": 26.14,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 9500000,
+      "trainWidth": 3.36,
+      "minStationLength": 209,
+      "maxStationLength": 219,
+      "baseTrackCost": 95000,
+      "baseStationCost": 180000000,
+      "trainOperationalCostPerHour": 790,
+      "carOperationalCostPerHour": 63,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "cr400af-ae",
+    "name": "CR400AF-AE Sleeper",
+    "description": "16-car 350 km/h Fuxing sleeper EMU for Beijing overnight high-speed sleeper services.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 97.22,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 55,
+      "carLength": 25.65,
+      "minCars": 16,
+      "maxCars": 16,
+      "carsPerCarSet": 16,
+      "carCost": 10200000,
+      "trainWidth": 3.36,
+      "minStationLength": 410,
+      "maxStationLength": 430,
+      "baseTrackCost": 105000,
+      "baseStationCost": 270000000,
+      "trainOperationalCostPerHour": 1280,
+      "carOperationalCostPerHour": 66,
+      "scissorsCrossoverCost": 46000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 130,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "crh380bg",
+    "name": "CRH380BG",
+    "description": "Cold-region 350 km/h CRH380B-family EMU used on Beijing–Northeast and northern HSR services.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 97.22,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 69,
+      "carLength": 25.7,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 8400000,
+      "trainWidth": 3.26,
+      "minStationLength": 206,
+      "maxStationLength": 216,
+      "baseTrackCost": 93000,
+      "baseStationCost": 175000000,
+      "trainOperationalCostPerHour": 770,
+      "carOperationalCostPerHour": 59,
+      "scissorsCrossoverCost": 41000000,
+      "trackClearance": 1.75,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#1E3A91"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun",
+      "CRRC Tangshan"
+    ]
+  },
+  {
+    "id": "crh5g",
+    "name": "CRH5G",
+    "description": "Cold/high-altitude 250 km/h CRH5-family EMU used on northern and western China Railway services serving Beijing.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 69.44,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 78,
+      "carLength": 26.5,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 5900000,
+      "trainWidth": 3.2,
+      "minStationLength": 212,
+      "maxStationLength": 222,
+      "baseTrackCost": 68000,
+      "baseStationCost": 125000000,
+      "trainOperationalCostPerHour": 580,
+      "carOperationalCostPerHour": 44,
+      "scissorsCrossoverCost": 31000000,
+      "trackClearance": 1.45,
+      "maxLateralAcceleration": 0.7,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.0,
+      "parallelTrackSpacing": 4.5,
+      "stopTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#1E3A91"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.7,
+      "STANDARD_TUNNEL": 2.45,
+      "CUT_AND_COVER": 1.25,
+      "AT_GRADE": 0.48,
+      "ELEVATED": 1.05
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
+  },
+  {
+    "id": "crh6f-a-beijing",
+    "name": "CRH6F-A Beijing",
+    "description": "4-car 160 km/h CRH6F-A/Cinova suburban EMU for Beijing Suburban Railway services such as Huairou-Miyun.",
+    "stats": {
+      "maxAcceleration": 0.65,
+      "maxDeceleration": 0.85,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 180,
+      "carLength": 25.25,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3900000,
+      "trainWidth": 3.3,
+      "minStationLength": 101,
+      "maxStationLength": 111,
+      "baseTrackCost": 46000,
+      "baseStationCost": 60000000,
+      "trainOperationalCostPerHour": 300,
+      "carOperationalCostPerHour": 31,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.8,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 4.0,
+      "stopTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#FF8000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "crh6a-beijing",
+    "name": "CRH6A Beijing",
+    "description": "8-car 200 km/h CRH6A/Cinova intercity EMU for Beijing Suburban Railway City Sub-Center services.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 55.56,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 73,
+      "carLength": 25.18,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 4500000,
+      "trainWidth": 3.3,
+      "minStationLength": 201,
+      "maxStationLength": 211,
+      "baseTrackCost": 55000,
+      "baseStationCost": 95000000,
+      "trainOperationalCostPerHour": 470,
+      "carOperationalCostPerHour": 35,
+      "scissorsCrossoverCost": 26000000,
+      "trackClearance": 1.25,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 55,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#FF8000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.7,
+      "STANDARD_TUNNEL": 2.45,
+      "CUT_AND_COVER": 1.25,
+      "AT_GRADE": 0.48,
+      "ELEVATED": 1.05
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Nanjing Puzhen",
+      "CRRC Qingdao Sifang"
+    ]
+  },
+  {
+    "id": "ndj3-great-wall",
+    "name": "NDJ3 Great Wall",
+    "description": "9-car 160 km/h diesel push-pull suburban train used on Beijing Suburban Railway S2 services.",
+    "stats": {
+      "maxAcceleration": 0.65,
+      "maxDeceleration": 0.85,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 72,
+      "carLength": 25.5,
+      "minCars": 9,
+      "maxCars": 9,
+      "carsPerCarSet": 9,
+      "carCost": 2600000,
+      "trainWidth": 3.105,
+      "minStationLength": 230,
+      "maxStationLength": 250,
+      "baseTrackCost": 30000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 430,
+      "carOperationalCostPerHour": 22,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.82,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#175E9C"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "CRRC Nanjing Puzhen"
+    ]
   }
 ]
-
