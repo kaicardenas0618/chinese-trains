@@ -1,73 +1,211 @@
-## Currently Available Trains (56)
+# Subway Builder Chinese Trains
 
-### Guangzhou (15)
+Chinese Trains is a small mod that adds trains from various metro systems across China. The cities available will align with the release of the China maps in the China Map Pack by Kronifer.
 
-| Name | Description | Manufacturer |
-|---|---|---|
-| GZ A1 Type A | Used by GZ Metro Line 1. 6-car 6A train. Manufacturer: Adtranz / Siemens Mobility. | Adtranz, Siemens Mobility |
-| GZ A7 Type A | Used by GZ Metro Line 13. 8-car 8A train. Manufacturer: CRRC Dalian. | CRRC Dalian |
-| GZ A9 Type A | Used by GZ Metro Line 11. 8-car 8A train. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive |
-| GZ B1 Type B | Used by GZ Metro Line 3. 3-car 3B train. Manufacturer: Siemens Mobility / CRRC Zhuzhou Locomotive. | Siemens Mobility, CRRC Zhuzhou Locomotive |
-| GZ B2 Type B | Used by GZ Metro Line 3. 6-car 6B train. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive |
-| GZ B3 DKZ29 Type B | Used by GZ Metro Line Guangfo. 4-car 4B train. Manufacturer: CRRC Changchun Railway Vehicles. | CRRC Changchun Railway Vehicles |
-| GZ B5 Type B | Used by GZ Metro Line 7. 6-car 6B train. Manufacturer: Guangzhou CRRC Rail Transit Equipment. | Guangzhou CRRC Rail Transit Equipment |
-| GZ B10 Type B | Used by GZ Metro Line 3. 6-car 6B train. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive |
-| GZ B11 CCD5059 Type B | Used by GZ Metro Line 3. 6-car 6B train. Manufacturer: CRRC Changchun Railway Vehicles. | CRRC Changchun Railway Vehicles |
-| GZ B12 Type B | Used by GZ Metro Line 7. 6-car 6B train. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive |
-| GZ D1 High-Speed Metro | Used by Guangzhou Metro Line 18. 8-car 6M2T suburban Type D high-speed metro train. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive |
-| GZ D2 High-Speed Metro | Used by Guangzhou Metro Line 22. 8-car 6M2T suburban Type D high-speed metro train. Manufacturer: Guangzhou CRRC Rail Transit Equipment / CRRC Zhuzhou platform. | Guangzhou CRRC Rail Transit Equipment, CRRC Zhuzhou Locomotive |
-| GZ L1 SFM03 Type LB Linear Metro | Used by GZ Metro Line 4. 4-car 4LB train. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang |
-| GZ L2 SFM08 Type LB Linear Metro | Used by GZ Metro Line 5. 6-car 6LB train. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang |
-| GZ APM100 Type APM | Used by GZ Metro Line APM. 2-car 2x APM train. Manufacturer: Bombardier Transportation. | Bombardier Transportation |
+## Currently Available Trains (171)
 
-### Shanghai (11)
+#### National (41)
 
-| Name | Description | Manufacturer |
-|---|---|---|
-| SZ 01A22 Type A | Used by Shenzhen Metro Line 1. 6-car 6A train. MOVIA 456 stock. Manufacturer: Bombardier Transportation / Changchun Bombardier Railway Vehicles. | Bombardier Transportation, Changchun Bombardier Railway Vehicles |
-| SZ 02A09 Type A Short | Used by Shenzhen Metro Line 2/8. 4-car 4A train. Short 4-car Type A formation. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive |
-| SZ 03B43 Type B | Used by Shenzhen Metro Line 3. 6-car 6B train. Manufacturer: CRRC Changchun Railway Vehicles. | CRRC Changchun Railway Vehicles |
-| SZ 03B33 Type B High-Speed | Used by Shenzhen Metro Line 3. 6-car 6B train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 06A51 Type A High-Speed | Used by Shenzhen Metro Line 6. 6-car 6A train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 6ZB09 Type B Express | Used by Shenzhen Metro Line 6 Branch. 6-car 6B train. GoA4 branch-line high-speed stock. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 07A02 Type A Shuttle | Used by Shenzhen Metro Line 7. 3-car 3A train. 3-car shuttle/short formation. Manufacturer: CRRC Changchun Railway Vehicles. | CRRC Changchun Railway Vehicles |
-| SZ 10A35 Type A | Used by Shenzhen Metro Line 10. 8-car 8A train. Manufacturer: CRRC Changchun Railway Vehicles. | CRRC Changchun Railway Vehicles |
-| SZ 11A33 Type A Express | Used by Shenzhen Metro Line 11. 8-car 8A train. 6M2T airport express stock. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive |
-| SZ 12A56 Type A | Used by Shenzhen Metro Line 12. 6-car 6A train. GoA4 stock. Manufacturer: CRRC Nanjing Puzhen / CRRC Guangdong. | CRRC Nanjing Puzhen, CRRC Guangdong |
-| SZ 13A19 Type A GoA4 | Used by Shenzhen Metro Line 13. 8-car 8A train. 8-car 6M2T GoA4 stock. Public operating speed is treated as 100 km/h. Manufacturer: CRRC Qingdao Sifang / CRRC Guangdong. | CRRC Qingdao Sifang, CRRC Guangdong |
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| CR400AF Fuxing | 8-car 350 km/h Fuxing high-speed EMU for national G-class HSR services. | CRRC Qingdao Sifang | 350 | 576 |
+| CR400AF-A Long | 16-car 350 km/h long-formation Fuxing high-speed EMU. | CRRC Qingdao Sifang | 350 | 1280 |
+| CR400AF-BS Sleeper | 17-car 350 km/h Fuxing sleeper/high-capacity long-distance EMU. | CRRC Qingdao Sifang | 350 | 1343 |
+| CR400BF-C Smart | 8-car smart-cabin Fuxing variant, modeled with the same 350 km/h HSR performance envelope. | CRRC Changchun | 350 | 576 |
+| CRH380A | 8-car 350 km/h Hexie high-speed EMU. | CRRC Qingdao Sifang | 350 | 560 |
+| CRH380AL Long | 16-car long-formation CRH380A-family high-speed EMU. | CRRC Qingdao Sifang | 350 | 1056 |
+| CRH380B | 8-car Siemens-derived 350 km/h Hexie high-speed EMU. | CRRC Tangshan, CRRC Changchun | 350 | 552 |
+| CRH380BL Long | 16-car long-formation CRH380B-family high-speed EMU. | CRRC Tangshan, CRRC Changchun | 350 | 1008 |
+| CRH380CL | 16-car CRH380C/CL family high-speed EMU. | CRRC Changchun | 350 | 1008 |
+| CRH380D | 8-car Zefiro-derived 350 km/h Hexie high-speed EMU. | Bombardier Sifang | 350 | 576 |
+| CRH3C | 8-car 300 km/h Siemens Velaro-derived Hexie EMU. | CRRC Tangshan, Siemens | 300 | 560 |
+| CR300AF Fuxing | 8-car 250 km/h Fuxing EMU for lower-speed HSR and D/C services. | CRRC Qingdao Sifang | 250 | 576 |
+| CRH2A | 8-car 250 km/h Hexie EMU used on D/C and lower-speed HSR services. | CRRC Qingdao Sifang | 250 | 608 |
+| CRH2B Long | 16-car long CRH2-family 250 km/h Hexie EMU. | CRRC Qingdao Sifang | 250 | 1232 |
+| CRH2E Sleeper | 16-car 250 km/h CRH2-family sleeper EMU for overnight D/G services. | CRRC Qingdao Sifang | 250 | 880 |
+| CRH5A | 8-car 250 km/h Hexie EMU derived from Alstom technology. | CRRC Changchun, Alstom | 250 | 624 |
+| CRH1A | 8-car 200-250 km/h Hexie EMU common on Guangdong/Shenzhen intercity and D services. | Bombardier Sifang | 250 | 672 |
+| CRH1B Long | 16-car long CRH1-family 200-250 km/h Hexie EMU. | Bombardier Sifang | 250 | 1296 |
+| CRH1E Sleeper | 16-car CRH1-family sleeper EMU for overnight services. | Bombardier Sifang | 250 | 624 |
+| CRH6A Intercity | 8-car 200 km/h CRH6/Cinova intercity EMU used on Guangzhou-Shenzhen and Shanghai-area intercity services. | CRRC Qingdao Sifang, CRRC Guangdong | 200 | 584 |
+| CRH6F Commuter | 8-car 160 km/h CRH6 commuter/intercity EMU variant for dense regional service. | CRRC Qingdao Sifang, CRRC Guangdong | 160 | 1440 |
+| CRH6A-A Short | 4-car 200 km/h short CRH6A-A intercity EMU. | CRRC Qingdao Sifang, CRRC Guangdong | 200 | 292 |
+| CR200J | 160 km/h power-concentrated Fuxing passenger set for D/C and conventional national-rail services. | CRRC Tangshan, CRRC Nanjing Puzhen, CRRC Zhuzhou, CRRC Dalian | 160 | 675 |
+| CR200J Long | 160 km/h long-formation CR200J power-concentrated Fuxing set. | CRRC Tangshan, CRRC Nanjing Puzhen, CRRC Zhuzhou, CRRC Dalian | 160 | 1350 |
+| 25T Coach Set | 160 km/h locomotive-hauled China Railway passenger coach set for Z/T/K/national services. | CRRC Changchun, CRRC Tangshan, CRRC Nanjing Puzhen | 160 | 1296 |
+| 25G Coach Set | 120 km/h locomotive-hauled China Railway passenger coach set common on conventional services. | CRRC Changchun, CRRC Tangshan, CRRC Nanjing Puzhen | 120 | 1296 |
+| 25K Coach Set | 160 km/h locomotive-hauled China Railway passenger coach set for faster conventional services. | CRRC Changchun, CRRC Tangshan, CRRC Nanjing Puzhen | 160 | 1296 |
+| CR160 City-Region | Generic 160 km/h city-region EMU for future intercity-style routes that are not exactly CRH6A. | CRRC | 160 | 1440 |
+| CRH6A-A Short | 4-car 200 km/h short intercity EMU for short intercity services such as Guangzhou-area branches. | CRRC Qingdao Sifang | 200 | 740 |
+| CR300AF Fuxing | 8-car 250 km/h Fuxing EMU for 250 km/h HSR corridors such as Guiyang-Guangzhou and Nanning-Guangzhou. | CRRC Qingdao Sifang, Bombardier Transportation, CRRC Nanjing Puzhen | 250 | 616 |
+| CR400BF Fuxing | 8-car 350 km/h Fuxing high-speed EMU common on Beijing-originating G-class services. | CRRC Changchun, CRRC Tangshan | 350 | 576 |
+| CR400BF-A Long | 16-car 350 km/h long-formation Fuxing high-speed EMU used on high-demand trunk HSR services from Beijing. | CRRC Changchun, CRRC Tangshan | 350 | 1280 |
+| CR400BF-B Long | 17-car 350 km/h Fuxing high-capacity long set used on selected Beijing trunk HSR services. | CRRC Changchun, CRRC Tangshan | 350 | 1360 |
+| CR400BF-Z Smart | 8-car 350 km/h smart-cabin Fuxing EMU used on Beijing-area HSR services. | CRRC Changchun, CRRC Tangshan | 350 | 576 |
+| CR400AF-Z Smart | 8-car 350 km/h smart-cabin Fuxing EMU used on Beijing-area HSR services. | CRRC Qingdao Sifang | 350 | 576 |
+| CR400AF-AE Sleeper | 16-car 350 km/h Fuxing sleeper EMU for Beijing overnight high-speed sleeper services. | CRRC Qingdao Sifang | 350 | 880 |
+| CRH380BG | Cold-region 350 km/h CRH380B-family EMU used on Beijing-Northeast and northern HSR services. | CRRC Changchun, CRRC Tangshan | 350 | 552 |
+| CRH5G | Cold/high-altitude 250 km/h CRH5-family EMU used on northern and western China Railway services serving Beijing. | CRRC Changchun | 250 | 624 |
+| CRH6F-A Beijing | 4-car 160 km/h CRH6F-A/Cinova suburban EMU for Beijing Suburban Railway services such as Huairou-Miyun. | CRRC Qingdao Sifang | 160 | 720 |
+| CRH6A Beijing | 8-car 200 km/h CRH6A/Cinova intercity EMU for Beijing Suburban Railway City Sub-Center services. | CRRC Nanjing Puzhen, CRRC Qingdao Sifang | 200 | 584 |
+| NDJ3 Great Wall | 9-car 160 km/h diesel push-pull suburban train used on Beijing Suburban Railway S2 services. | CRRC Nanjing Puzhen | 160 | 648 |
 
-### Shenzhen (30)
 
-| Name | Description | Manufacturer |
-|---|---|---|
-| SZ 01A22 Type A MOVIA | Used by Shenzhen Metro Line 1. 6-car Type A MOVIA 456 train. Manufacturer: Bombardier / Changchun Bombardier. | Bombardier Transportation, Changchun Bombardier Railway Vehicles |
-| SZ 01A04 Type A Changchun | Used by Shenzhen Metro Line 1. 6-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 01A26 Type A Zhuzhou | Used by Shenzhen Metro Line 1. 6-car Type A train. Manufacturer: CSR/CRRC Zhuzhou. | CRRC Zhuzhou Locomotive |
-| SZ 01A33 Type A Zhuzhou | Used by Shenzhen Metro Line 1. Later 6-car Type A train. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou Locomotive |
-| SZ 02A35 Type A Changchun | Used by Shenzhen Metro Lines 2 and 8. 6-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 02A16 Type A Changchun | Used by Shenzhen Metro Lines 2 and 8. Later 6-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 02A06 Type A Zhuzhou | Used by Shenzhen Metro Lines 2, 5, 8, and 16 variants. 6-car Type A train. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou Locomotive |
-| SZ 02A09 Type A Short | Used by Shenzhen Metro Lines 2 and 8. 4-car Type A short-formation train. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou Locomotive |
-| SZ 03B43 Type B Changchun | Used by Shenzhen Metro Line 3. 6-car Type B train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 03B33 Type B Puzhen | Used by Shenzhen Metro Line 3. 6-car Type B train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 03B22 Type B Puzhen | Used by Shenzhen Metro Line 3. Later 6-car Type B train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 04A28 Type A Puzhen | Used by Shenzhen Metro Line 4. 6-car Type A train, originally delivered as 4-car and expanded. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 04A24 Type A Puzhen | Used by Shenzhen Metro Line 4. Later 6-car Type A train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 05A39 Type A Changchun | Used by Shenzhen Metro Line 5. Modern 6-car Type A train. Manufacturer: CRRC Changchun / Shenzhen-local assembly. | CRRC Changchun Railway Vehicles |
-| SZ 06A51 Type A Puzhen | Used by Shenzhen Metro Line 6. 6-car Type A train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 6ZB09 Type B High-Speed | Used by Shenzhen Metro Line 6 Branch. 6-car GoA4 Type B high-speed metro train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 07A41 Type A Changchun | Used by Shenzhen Metro Line 7. 6-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 07A02 Type A Shuttle | Used by Shenzhen Metro Line 7 as a 3-car plus 3-car shuttle/short formation derived from Changchun Type A stock. | CRRC Changchun Railway Vehicles |
-| SZ 09A29 Type A Changchun | Used by Shenzhen Metro Line 9. 6-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 09A22 Type A Changchun | Used by Shenzhen Metro Line 9. Later 6-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 10A35 Type A 8-Car | Used by Shenzhen Metro Line 10. 8-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 11A33 Type A Express | Used by Shenzhen Metro Line 11. 8-car 6M2T Type A express metro train. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou Locomotive |
-| SZ 11A40 Type A Express | Used by Shenzhen Metro Line 11. Later 8-car 6M2T Type A express metro train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 12A56 Type A Puzhen | Used by Shenzhen Metro Line 12. 6-car Type A GoA4 train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 12A20 Type A Puzhen | Used by Shenzhen Metro Line 12. Later 6-car Type A GoA4 train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen |
-| SZ 13A19 Type A GoA4 | Used by Shenzhen Metro Line 13. 8-car 6M2T Type A GoA4 train. Manufacturer: CRRC Qingdao Sifang / CRRC Guangdong. | CRRC Qingdao Sifang, CRRC Guangdong |
-| SZ 14A44 Type A Express | Used by Shenzhen Metro Line 14. 8-car 6M2T Type A GoA4 express metro train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
-| SZ 16A32 Type A Zhuzhou | Used by Shenzhen Metro Line 16. 6-car Type A train. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou Locomotive |
-| SZ 16A12 Type A Zhuzhou | Used by Shenzhen Metro Line 16. Later 6-car Type A train with newer traction equipment. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou Locomotive |
-| SZ 20A09 Type A Express | Used by Shenzhen Metro Line 20. 8-car 6M2T Type A GoA4 express metro train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles |
+#### Guangzhou (40)
 
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| GZ A1 A | Guangzhou Metro A1 6-car Type A train. Used mainly on Line 1. Manufacturer: Adtranz / Siemens. | Adtranz, Siemens Mobility | 88 | 1860 |
+| GZ A2 A | Guangzhou Metro A2 6-car Type A train. Used on Lines 1, 2 and 8 over its service life. Manufacturer: CNR Changchun / Bombardier. | CNR Changchun, Bombardier Transportation | 88 | 1860 |
+| GZ A3 A | Guangzhou Metro A3 6-car Type A train. Used on Line 1. Manufacturer: Changchun Bombardier. | Changchun Bombardier | 88 | 1860 |
+| GZ A4 A | Guangzhou Metro A4 6-car Type A train. Used on Line 2 and formerly Line 8. Manufacturer: CSR Zhuzhou. | CSR Zhuzhou | 88 | 1860 |
+| GZ A5 A | Guangzhou Metro A5 6-car Type A train. Used on Lines 1, 2 and 8. Manufacturer: CSR/CRRC Zhuzhou. | CRRC Zhuzhou | 88 | 1860 |
+| GZ A6 A | Guangzhou Metro A6 6-car Type A train. Used on Line 8. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 88 | 1860 |
+| GZ A7 A | Guangzhou Metro A7 8-car Type A train. Used on Line 13. Manufacturer: CRRC Dalian. | CRRC Dalian | 100 | 2480 |
+| GZ A8 A | Guangzhou Metro A8 6-car Type A train. Used on Line 8. Manufacturer: CRRC Changchun. | CRRC Changchun | 88 | 1860 |
+| GZ A9 A | Guangzhou Metro A9 8-car Type A train. Used on Line 11. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 88 | 2480 |
+| GZ A10 A | Guangzhou Metro A10 6-car Type A train. Used on Line 12. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 88 | 1860 |
+| GZ A11 A | Guangzhou Metro A11 8-car Type A train. Newer Line 13 stock. Manufacturer: CRRC Dalian. | CRRC Dalian | 100 | 2480 |
+| GZ B1 B | Guangzhou Metro B1 Type B train. Used on Line 3; initially operated as 3-car sets, later as 6-car trains. | CSR Zhuzhou, Siemens Mobility | 120 | 1500 |
+| GZ B2 B | Guangzhou Metro B2 6-car Type B train. Used on Line 3. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 120 | 1500 |
+| GZ B3 DKZ29 B | Guangzhou Metro B3 DKZ29 4-car Type B train. Used on the Guangfo Line. Manufacturer: CRRC Changchun. | CRRC Changchun | 88 | 1304 |
+| GZ B3-I SFM27 B | Guangzhou Metro B3-I SFM27 4-car Type B train. Used on the Guangfo Line. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 88 | 1304 |
+| GZ B3-II SFM77 B | Guangzhou Metro B3-II SFM77 4-car Type B train. Used on the Guangfo Line. Manufacturer: Foshan CRRC Sifang. | Foshan CRRC Sifang | 88 | 1304 |
+| GZ B4 B | Guangzhou Metro B4 6-car Type B train. Used on Line 3. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 120 | 1500 |
+| GZ B5 B | Guangzhou Metro B5 6-car Type B train. Used on Line 7. Manufacturer: Guangzhou CRRC. | Guangzhou CRRC | 88 | 1560 |
+| GZ B6 B | Guangzhou Metro B6 6-car Type B train. Used on Line 9. Manufacturer: Guangzhou CRRC. | Guangzhou CRRC | 120 | 1500 |
+| GZ B7 B | Guangzhou Metro B7 6-car Type B train. Used on Lines 14 and 21. Manufacturer: Guangzhou CRRC. | Guangzhou CRRC | 120 | 1500 |
+| GZ B8 B | Guangzhou Metro B8 6-car Type B train. Used on Lines 21 and 14. Manufacturer: Guangzhou CRRC. | Guangzhou CRRC | 120 | 1500 |
+| GZ B9 SFM72 B | Guangzhou Metro B9 SFM72 6-car Type B train. Used on Line 7. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 88 | 1560 |
+| GZ B10 B | Guangzhou Metro B10 6-car Type B train. Used on Line 3. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 120 | 1500 |
+| GZ B11 CCD5059 B | Guangzhou Metro B11 CCD5059 6-car Type B train. Used on Line 3. Manufacturer: CRRC Changchun. | CRRC Changchun | 120 | 1500 |
+| GZ B12 B | Guangzhou Metro B12 6-car Type B train. Used on Line 7. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 88 | 1560 |
+| GZ B13 B | Guangzhou Metro B13 6-car Type B train. Used on Line 10. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 88 | 1560 |
+| GZ B14 B | Guangzhou Metro B14 6-car Type B train. Used on Lines 14 and 21. Manufacturer: Guangzhou CRRC. | Guangzhou CRRC | 120 | 1500 |
+| GZ D1 High-Speed Metro | Guangzhou Metro D1 8-car Type D high-speed metro train. Used on Lines 18 and 22. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou | 182 | 2616 |
+| GZ D2 High-Speed Metro | Guangzhou Metro D2 8-car Type D high-speed metro train. Used on Lines 22 and 18. Manufacturer: Guangzhou CRRC. | Guangzhou CRRC, CRRC Zhuzhou | 182 | 2616 |
+| GZ L1 SFM03 LB Linear | Guangzhou Metro L1 SFM03 4-car linear-motor train. Used on Line 4. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 880 |
+| GZ L2 SFM08 LB Linear | Guangzhou Metro L2 SFM08 6-car linear-motor train. Used on Line 5. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 1320 |
+| GZ L3 SFM15 LB Linear | Guangzhou Metro L3 SFM15 4-car linear-motor train. Used on Line 6. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 880 |
+| GZ L4 SFM19 LB Linear | Guangzhou Metro L4 SFM19 6-car linear-motor train. Used on Line 5. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 1320 |
+| GZ L5 SFM37 LB Linear | Guangzhou Metro L5 SFM37 4-car linear-motor train. Used on Line 4. Manufacturer: CRRC Guangdong. | CRRC Guangdong | 100 | 880 |
+| GZ L6 SFM76 LB Linear | Guangzhou Metro L6 SFM76 4-car linear-motor train. Used on Line 6. Manufacturer: CRRC Guangdong. | CRRC Guangdong | 100 | 880 |
+| GZ L7 SFM97 LB Linear | Guangzhou Metro L7 SFM97 6-car linear-motor train. Used on Line 5. Manufacturer: CRRC Guangdong. | CRRC Guangdong | 100 | 1320 |
+| GZ APM100 APM | Guangzhou Metro APM1 rubber-tired automated people mover stock. Used on the Zhujiang New Town APM. | Bombardier Transportation | 60 | 230 |
+| GZ THZ1 Tram | Guangzhou Haizhu Tram THZ1 low-floor tram stock. Tuned for surface-running urban tram operation. | CRRC | 70 | 300 |
+| GZ THP1 Tram | Guangzhou Huangpu Tram THP1 low-floor tram stock. Tuned for surface-running district tram service. | CRRC | 70 | 300 |
+| GZ THP2 Tram | Guangzhou Huangpu Tram THP2 low-floor tram stock. Tuned for surface-running district tram service. | CRRC | 70 | 300 |
+
+
+#### Foshan (8)
+
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| FS SFM53 B | Foshan Metro Line 2 6-car Type B train. 4M2T, 100 km/h operating class, 120 km/h design-speed equipment. | Foshan CRRC Sifang, CRRC Qingdao Sifang | 100 | 1560 |
+| FS SFM9x B | Foshan Metro Line 2 later 6-car Type B train family. 4M2T, 100 km/h operating class, 120 km/h design-speed equipment. | Foshan CRRC Sifang, CRRC Qingdao Sifang | 100 | 1560 |
+| FS SFM105 B | Foshan Metro Line 3 6-car Type B train. 4M2T with permanent-magnet traction, 100 km/h operating class, 120 km/h design-speed equipment. | Foshan CRRC Sifang, CRRC Qingdao Sifang, CRRC Guangdong | 100 | 1560 |
+| FS Line4 B | Foshan Metro Line 4 planned 6-car Type B fully automated train. 100 km/h class. | CRRC | 100 | 1560 |
+| FS Line11 B | Foshan Metro Line 11 planned 6-car Type B train. 100 km/h class. | CRRC | 100 | 1560 |
+| FS Nanhai Tram | Nanhai Tram Line 1 / Nanhai New Transit 3-section low-floor bidirectional tram. CRRC Sifang stock, 70 km/h class. | CRRC Qingdao Sifang | 70 | 396 |
+| FS Lishui Tram | Nanhai Lishui demonstration tram 3-module hydrogen plus lithium-titanate battery tram. 70 km/h operating class, 80 km/h design class. | CRRC Qingdao Sifang | 70 | 280 |
+| FS Gaoming Tram | Gaoming hydrogen fuel-cell tram. 3-section low-floor bidirectional tram, 70 km/h class. | CRRC Qingdao Sifang, Skoda | 70 | 285 |
+
+
+#### Shanghai (13)
+
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| SH 01A02 A | Used by Shanghai Metro Line 1. 8-car A train. Former DC01C family. Manufacturer: Adtranz. | Adtranz | 90 | 2480 |
+| SH 03A01 A | Used by Shanghai Metro Line 3. 6-car A train. Former AC03 family. Manufacturer: Alstom / CRRC Nanjing Puzhen. | Alstom, CRRC Nanjing Puzhen | 90 | 1860 |
+| SH 05C01 C | Used by Shanghai Metro Line 5. 4-car C train. Manufacturer: Shanghai Alstom. | Shanghai Alstom | 80 | 840 |
+| SH 05C02 C | Used by Shanghai Metro Line 5. 6-car C train. Manufacturer: CRRC Changchun / Shanghai Alstom. | CRRC Changchun, Shanghai Alstom | 110 | 1260 |
+| SH 08C01 C | Used by Shanghai Metro Line 8. 6-car C train. Manufacturer: Shanghai Alstom. | Shanghai Alstom | 80 | 1260 |
+| SH 08C02 C | Used by Shanghai Metro Line 8. 7-car C train. Manufacturer: CRRC Changchun / Shanghai Alstom. | CRRC Changchun, Shanghai Alstom | 80 | 1470 |
+| SH 10A02 A High-Speed | Used by Shanghai Metro Line 10. 6-car A train. Manufacturer: CRRC Nanjing Puzhen / Shanghai Alstom. | CRRC Nanjing Puzhen, Shanghai Alstom | 100 | 1860 |
+| SH 11A01 A Express | Used by Shanghai Metro Line 11. 6-car A train. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive | 110 | 1860 |
+| SH 14A01 A High-Speed | Used by Shanghai Metro Line 14. 8-car A train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen | 100 | 2480 |
+| SH 16A01 A Express | Used by Shanghai Metro Line 16. 3-car A train. Modeled as source 3-car set; sets may operate coupled. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive | 120 | 930 |
+| SH 16A02 A Express | Used by Shanghai Metro Line 16. 6-car A train. Manufacturer: CRRC Zhuzhou Locomotive. | CRRC Zhuzhou Locomotive | 120 | 1860 |
+| SH Pujiang APM300 APM | Used by Shanghai Metro Line Pujiang. 4-car APM train. Rubber-tired automated people mover stock. Manufacturer: CRRC Puzhen Bombardier Transportation Systems. | CRRC Puzhen Bombardier Transportation Systems | 80 | 460 |
+| SH JY01A01 A Express | Used by Shanghai Metro Line Pudong Airport APM. 4-car A train. Airport automated people mover-style metro stock. Manufacturer: CRRC Changchun Railway Vehicles. | CRRC Changchun Railway Vehicles | 110 | 1240 |
+
+
+#### Shenzhen (14)
+
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| SZ 01A22 A MOVIA | Used by Shenzhen Metro Line 1. 6-car Type A MOVIA 456 train. Manufacturer: Bombardier / Changchun Bombardier. | Bombardier Transportation, Changchun Bombardier Railway Vehicles | 80 | 2130 |
+| SZ 01A04 A Changchun | Used by Shenzhen Metro Line 1. 6-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles | 80 | 1860 |
+| SZ 01A26 A Zhuzhou | Used by Shenzhen Metro Line 1. 6-car Type A train. Manufacturer: CSR/CRRC Zhuzhou. | CRRC Zhuzhou Locomotive | 80 | 1920 |
+| SZ 02A09 A Short | Used by Shenzhen Metro Lines 2 and 8. 4-car Type A short-formation train. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou Locomotive | 80 | 1240 |
+| SZ 03B43 B Changchun | Used by Shenzhen Metro Line 3. 6-car Type B train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles | 90 | 1878 |
+| SZ 03B33 B Puzhen | Used by Shenzhen Metro Line 3. 6-car Type B train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen | 100 | 1878 |
+| SZ 06A51 A Puzhen | Used by Shenzhen Metro Line 6. 6-car Type A train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen | 100 | 1860 |
+| SZ 6ZB09 B High-Speed | Used by Shenzhen Metro Line 6 Branch. 6-car GoA4 Type B high-speed metro train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen | 120 | 1560 |
+| SZ 07A02 A Shuttle | Used by Shenzhen Metro Line 7 as a 3-car plus 3-car shuttle/short formation derived from Changchun Type A stock. | CRRC Changchun Railway Vehicles | 80 | 1860 |
+| SZ 10A35 A 8-Car | Used by Shenzhen Metro Line 10. 8-car Type A train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles | 80 | 2480 |
+| SZ 11A33 A Express | Used by Shenzhen Metro Line 11. 8-car 6M2T Type A express metro train. Manufacturer: CRRC Zhuzhou. | CRRC Zhuzhou Locomotive | 120 | 2568 |
+| SZ 12A56 A Puzhen | Used by Shenzhen Metro Line 12. 6-car Type A GoA4 train. Manufacturer: CRRC Nanjing Puzhen. | CRRC Nanjing Puzhen | 90 | 1860 |
+| SZ 13A19 A GoA4 | Used by Shenzhen Metro Line 13. 8-car 6M2T Type A GoA4 train. Manufacturer: CRRC Qingdao Sifang / CRRC Guangdong. | CRRC Qingdao Sifang, CRRC Guangdong | 100 | 2480 |
+| SZ 14A44 A Express | Used by Shenzhen Metro Line 14. 8-car 6M2T Type A GoA4 express metro train. Manufacturer: CRRC Changchun. | CRRC Changchun Railway Vehicles | 120 | 2480 |
+
+
+#### Beijing (55)
+
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| BJ DKZ4 B | Beijing DKZ4 6-car Type B train. Used on Line 1/Batong. Manufacturer: Changchun Passenger Car Factory / Beijing Subway Rolling Stock Equipment. | Changchun Passenger Car Factory, Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ DKZ5 B | Beijing DKZ5 6-car Type B train. Used on Line 13. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment. | CNR Changchun, Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ DKZ6 B | Beijing DKZ6 6-car Type B train. Used on Line 13. Manufacturer: CNR Changchun. | CNR Changchun | 80 | 1470 |
+| BJ SFM01 B | Beijing SFM01 6-car Type B train. Used on Line 1/Batong. Manufacturer: CSR Qingdao Sifang / Beijing Subway Rolling Stock Equipment. | CSR Qingdao Sifang, Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ SFM02 B | Beijing SFM02 6-car Type B train. Used on Line 1/Batong. Manufacturer: CSR Qingdao Sifang. | CSR Qingdao Sifang | 80 | 1470 |
+| BJ DKZ13 B | Beijing DKZ13 6-car Type B train. Used on Line 5. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment. | CNR Changchun, Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ DKZ16 B | Beijing DKZ16 6-car Type B train. Used on Line 2. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment. | CNR Changchun, Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ SFM04 B | Beijing SFM04 6-car Type B train. Used on Line 1/Batong. Manufacturer: CSR Qingdao Sifang. | CSR Qingdao Sifang | 80 | 1470 |
+| BJ DKZ15 B | Beijing DKZ15 6-car Type B train. Used on Line 10. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment / CNR Dalian. | CNR Changchun, Beijing Subway Rolling Stock Equipment, CNR Dalian | 80 | 1470 |
+| BJ SFM05 B | Beijing SFM05 6-car Type B train. Used on Line 4/Daxing. Manufacturer: CSR Qingdao Sifang. | CSR Qingdao Sifang | 80 | 1470 |
+| BJ SFM07 B | Beijing SFM07 6-car Type B train. Used on Line 1/Batong. Manufacturer: CSR Qingdao Sifang / Beijing Subway Rolling Stock Equipment. | CSR Qingdao Sifang, Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ BJD01 B | Beijing BJD01 6-car Type B train. Used on Line Fangshan. Manufacturer: Beijing Subway Rolling Stock Equipment / CNR Changchun. | Beijing Subway Rolling Stock Equipment, CNR Changchun | 100 | 1470 |
+| BJ SFM13 B | Beijing SFM13 6-car Type B train. Used on Line Changping. Manufacturer: CSR Qingdao Sifang. | CSR Qingdao Sifang | 100 | 1470 |
+| BJ DKZ31 B | Beijing DKZ31 6-car Type B train. Used on Line 15. Manufacturer: CNR Changchun. | CNR Changchun | 100 | 1470 |
+| BJ DKZ32 B | Beijing DKZ32 6-car Type B train. Used on Line Yizhuang. Manufacturer: CNR Changchun. | CNR Changchun | 80 | 1470 |
+| BJ SFM12 B | Beijing SFM12 6-car Type B train. Used on Line 8. Manufacturer: CSR Qingdao Sifang / Beijing Subway Rolling Stock Equipment. | CSR Qingdao Sifang, Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ DKZ33 B | Beijing DKZ33 6-car Type B train. Used on Line 9. Manufacturer: CNR Changchun. | CNR Changchun | 80 | 1470 |
+| BJ DKZ34 B | Beijing DKZ34 6-car Type B train. Used on Line 10. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment / CNR Dalian. | CNR Changchun, Beijing Subway Rolling Stock Equipment, CNR Dalian | 80 | 1470 |
+| BJ DKZ47 B | Beijing DKZ47 8-car Type B train. Used on Line 6. Manufacturer: CNR Changchun / Beijing Subway Rolling Stock Equipment. | CNR Changchun, Beijing Subway Rolling Stock Equipment | 100 | 1960 |
+| BJ DKZ53 A | Beijing DKZ53 6-car Type A train. Used on Line 14. Manufacturer: CNR Changchun. | CNR Changchun | 100 | 1860 |
+| BJ SFM18 A | Beijing SFM18 6-car Type A train. Used on Line 14. Manufacturer: CSR Qingdao Sifang. | CSR Qingdao Sifang | 100 | 1860 |
+| BJ BDK01 B | Beijing BDK01 8-car Type B train. Used on Line 7. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 1960 |
+| BJ SFM21 B | Beijing SFM21 6-car Type B train. Used on Line Changping. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 1470 |
+| BJ DKZ76 B | Beijing DKZ76 4-car Type B train. Used on Line Yanfang. Manufacturer: CRRC Changchun. | CRRC Changchun | 80 | 980 |
+| BJ SFM16 B | Beijing SFM16 4-car Type B train. Used on Line Yanfang. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 80 | 980 |
+| BJ DKZ93 A | Beijing DKZ93 8-car Type A train. Used on Line 16. Manufacturer: CRRC Changchun. | CRRC Changchun | 100 | 2480 |
+| BJ SFM40 A | Beijing SFM40 8-car Type A train. Used on Line 16. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 2480 |
+| BJ SFM42 B | Beijing SFM42 6-car Type B train. Used on Line 8. Manufacturer: CRRC Qingdao Sifang / Beijing Subway Rolling Stock Equipment. | CRRC Qingdao Sifang, Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ DKZ106 B | Beijing DKZ106 8-car Type B train. Used on Line 6. Manufacturer: CRRC Changchun. | CRRC Changchun | 100 | 1960 |
+| BJ BDK03 B | Beijing BDK03 6-car Type B train. Used on Line Fangshan. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 1470 |
+| BJ BDK04 B | Beijing BDK04 6-car Type B train. Used on Line 9. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ BDK05 B | Beijing BDK05 8-car Type B train. Used on Line 7. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 1960 |
+| BJ BDK06 B | Beijing BDK06 6-car Type B train. Used on Line 1/Batong. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ GSYE20 D Express | Beijing GSYE20 8-car Type D Express train. Used on Line Daxing Airport. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 160 | 1920 |
+| BJ GSYE23 D Express | Beijing GSYE23 4-car Type D Express train. Used on Line Daxing Airport. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 160 | 960 |
+| BJ CJ3 D Express | Beijing CJ3 8-car Type D Express train. Used on Line Daxing Airport. Manufacturer: CRRC Changchun. | CRRC Changchun | 160 | 1920 |
+| BJ SFM79 A | Beijing SFM79 8-car Type A train. Used on Line 17. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 2480 |
+| BJ CCD5035 A | Beijing CCD5035 8-car Type A train. Used on Line 17. Manufacturer: CRRC Changchun. | CRRC Changchun | 100 | 2480 |
+| BJ SFM80 A | Beijing SFM80 8-car Type A train. Used on Line 19. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 2480 |
+| BJ CCD5034 A | Beijing CCD5034 8-car Type A train. Used on Line 19. Manufacturer: CRRC Changchun. | CRRC Changchun | 100 | 2480 |
+| BJ ZBM04 A | Beijing ZBM04 4-car Type A train. Used on Line 11. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 1240 |
+| BJ CCD3004 LB Linear | Beijing CCD3004 4-car Type LB Linear train. Used on Line Capital Airport. Manufacturer: CRRC Changchun. | CRRC Changchun | 110 | 740 |
+| BJ ZBM06 A | Beijing ZBM06 8-car Type A train. Used on Line 3. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 2480 |
+| BJ SFM86 A | Beijing SFM86 8-car Type A train. Used on Line 3. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 2480 |
+| BJ BDK07 B | Beijing BDK07 6-car Type B train. Used on Line Changping. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 1470 |
+| BJ SFM93 B | Beijing SFM93 6-car Type B train. Used on Line Changping. Manufacturer: CRRC Qingdao Sifang. | CRRC Qingdao Sifang | 100 | 1470 |
+| BJ BDK08 B | Beijing BDK08 6-car Type B train. Used on Line 15. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 1470 |
+| BJ CCD5049 A | Beijing CCD5049 8-car Type A train. Used on Line 12. Manufacturer: CRRC Changchun. | CRRC Changchun | 100 | 2480 |
+| BJ ZBM05 A | Beijing ZBM05 8-car Type A train. Used on Line 12. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 2480 |
+| BJ ZBM13 B | Beijing ZBM13 8-car Type B train. Used on Line 6. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 100 | 1960 |
+| BJ ZBM15 B | Beijing ZBM15 6-car Type B train. Used on Line 13. Manufacturer: Beijing Subway Rolling Stock Equipment. | Beijing Subway Rolling Stock Equipment | 80 | 1470 |
+| BJ QKZ5 LB Linear | Beijing QKZ5 4-car linear-motor train. Used on the Capital Airport Express. Manufacturer: CNR Changchun / Bombardier. | CNR Changchun, Bombardier Transportation | 110 | 740 |
+| BJ S1 Maglev | Beijing S1 Line 6-car medium-low-speed maglev train. Manufacturer: CRRC Tangshan / Beijing Enterprises Holdings Maglev. | CRRC Tangshan, Beijing Enterprises Holdings Maglev | 100 | 1032 |
+| BJ Xijiao Tram | Beijing Xijiao Line 5-car light rail/tram train. Overhead-wire LRT stock, 70 km/h class. | CRRC | 70 | 300 |
+| BJ Yizhuang T1 Tram | Beijing Yizhuang Tram T1 5-car light rail/tram train. Overhead-wire LRT stock, 70 km/h class. | CRRC | 70 | 300 |
