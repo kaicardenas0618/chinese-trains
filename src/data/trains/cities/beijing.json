@@ -30,8 +30,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#A4343A"
     },
@@ -39,10 +45,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Changchun Passenger Car Factory",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Changchun Passenger Car Factory",
       "Beijing Subway Rolling Stock Equipment"
@@ -79,8 +101,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#F7A800"
     },
@@ -88,10 +116,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "CNR Changchun",
       "Beijing Subway Rolling Stock Equipment"
@@ -128,8 +172,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#F7A800"
     },
@@ -137,10 +187,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun"
+    ],
     "Manufacturer": [
       "CNR Changchun"
     ]
@@ -176,8 +241,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#A4343A"
     },
@@ -185,10 +256,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CSR Qingdao Sifang",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "CSR Qingdao Sifang",
       "Beijing Subway Rolling Stock Equipment"
@@ -225,8 +312,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#A4343A"
     },
@@ -234,10 +327,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CSR Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CSR Qingdao Sifang"
     ]
@@ -273,8 +381,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#A05EB5"
     },
@@ -282,10 +396,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "CNR Changchun",
       "Beijing Subway Rolling Stock Equipment"
@@ -322,8 +452,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#003DA5"
     },
@@ -331,10 +467,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "CNR Changchun",
       "Beijing Subway Rolling Stock Equipment"
@@ -371,8 +523,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#A4343A"
     },
@@ -380,10 +538,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CSR Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CSR Qingdao Sifang"
     ]
@@ -419,8 +592,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#00A3E0"
     },
@@ -428,10 +607,27 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment",
+      "CNR Dalian"
+    ],
     "Manufacturer": [
       "CNR Changchun",
       "Beijing Subway Rolling Stock Equipment",
@@ -469,8 +665,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#00843D"
     },
@@ -478,10 +680,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CSR Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CSR Qingdao Sifang"
     ]
@@ -517,8 +734,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#A4343A"
     },
@@ -526,10 +749,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CSR Qingdao Sifang",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "CSR Qingdao Sifang",
       "Beijing Subway Rolling Stock Equipment"
@@ -566,8 +805,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#D71920"
     },
@@ -575,10 +820,26 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment",
+      "CNR Changchun"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment",
       "CNR Changchun"
@@ -615,8 +876,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#D71920"
     },
@@ -624,10 +891,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CSR Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CSR Qingdao Sifang"
     ]
@@ -663,8 +945,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#653279"
     },
@@ -672,10 +960,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun"
+    ],
     "Manufacturer": [
       "CNR Changchun"
     ]
@@ -711,8 +1014,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#C50084"
     },
@@ -720,10 +1029,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun"
+    ],
     "Manufacturer": [
       "CNR Changchun"
     ]
@@ -759,8 +1083,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#009CA6"
     },
@@ -768,10 +1098,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CSR Qingdao Sifang",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "CSR Qingdao Sifang",
       "Beijing Subway Rolling Stock Equipment"
@@ -808,8 +1154,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#7B6469"
     },
@@ -817,10 +1169,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun"
+    ],
     "Manufacturer": [
       "CNR Changchun"
     ]
@@ -856,8 +1223,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#00A3E0"
     },
@@ -865,10 +1238,27 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment",
+      "CNR Dalian"
+    ],
     "Manufacturer": [
       "CNR Changchun",
       "Beijing Subway Rolling Stock Equipment",
@@ -906,8 +1296,14 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 36,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#B58500"
     },
@@ -915,10 +1311,26 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CNR Changchun",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "CNR Changchun",
       "Beijing Subway Rolling Stock Equipment"
@@ -955,8 +1367,14 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#D6001C"
     },
@@ -964,10 +1382,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CNR Changchun"
+    ],
     "Manufacturer": [
       "CNR Changchun"
     ]
@@ -1003,8 +1436,14 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#D6001C"
     },
@@ -1012,10 +1451,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CSR Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CSR Qingdao Sifang"
     ]
@@ -1051,8 +1505,14 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 36,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#F58220"
     },
@@ -1060,10 +1520,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -1099,8 +1574,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#D71920"
     },
@@ -1108,10 +1589,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -1147,8 +1643,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 28,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#E57200"
     },
@@ -1156,10 +1658,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -1195,8 +1712,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 28,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#E57200"
     },
@@ -1204,10 +1727,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -1243,8 +1781,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#76BC21"
     },
@@ -1252,10 +1796,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -1291,8 +1850,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#76BC21"
     },
@@ -1300,10 +1865,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -1339,8 +1919,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#009CA6"
     },
@@ -1348,10 +1934,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang",
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang",
       "Beijing Subway Rolling Stock Equipment"
@@ -1388,8 +1990,14 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 36,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#B58500"
     },
@@ -1397,10 +2005,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -1436,8 +2059,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#D71920"
     },
@@ -1445,10 +2074,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -1484,8 +2128,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#7B6469"
     },
@@ -1493,10 +2143,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -1532,8 +2197,14 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 36,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#F58220"
     },
@@ -1541,10 +2212,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -1580,8 +2266,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#A4343A"
     },
@@ -1589,10 +2281,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -1628,8 +2335,14 @@
       "parallelTrackSpacing": 4.4,
       "stopTimeSeconds": 45,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
     "appearance": {
       "color": "#224C8D"
     },
@@ -1637,10 +2350,25 @@
       "DEEP_BORE": 4.4,
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
+      "TRENCHED": 0.77,
       "AT_GRADE": 0.4,
+      "RAMP": 0.68,
       "ELEVATED": 0.95
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -1676,8 +2404,14 @@
       "parallelTrackSpacing": 4.4,
       "stopTimeSeconds": 45,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
     "appearance": {
       "color": "#224C8D"
     },
@@ -1685,10 +2419,25 @@
       "DEEP_BORE": 4.4,
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
+      "TRENCHED": 0.77,
       "AT_GRADE": 0.4,
+      "RAMP": 0.68,
       "ELEVATED": 0.95
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -1724,8 +2473,14 @@
       "parallelTrackSpacing": 4.4,
       "stopTimeSeconds": 45,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
     "appearance": {
       "color": "#224C8D"
     },
@@ -1733,10 +2488,25 @@
       "DEEP_BORE": 4.4,
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
+      "TRENCHED": 0.77,
       "AT_GRADE": 0.4,
+      "RAMP": 0.68,
       "ELEVATED": 0.95
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -1772,8 +2542,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#00A9CE"
     },
@@ -1781,10 +2557,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -1820,8 +2611,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#00A9CE"
     },
@@ -1829,10 +2626,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -1868,8 +2680,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#C5003E"
     },
@@ -1877,10 +2695,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -1916,8 +2749,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#C5003E"
     },
@@ -1925,10 +2764,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -1964,8 +2818,14 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#E57200"
     },
@@ -1973,10 +2833,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -2012,8 +2887,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 36,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
     "appearance": {
       "color": "#A7A8AA"
     },
@@ -2021,10 +2902,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -2060,8 +2956,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#D99A30"
     },
@@ -2069,10 +2971,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -2108,8 +3025,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#D99A30"
     },
@@ -2117,10 +3040,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -2156,8 +3094,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#D71920"
     },
@@ -2165,10 +3109,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -2204,8 +3163,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#D71920"
     },
@@ -2213,10 +3178,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -2252,8 +3232,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#653279"
     },
@@ -2261,10 +3247,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -2300,8 +3301,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#6B3F23"
     },
@@ -2309,10 +3316,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
     "Manufacturer": [
       "CRRC Changchun"
     ]
@@ -2348,8 +3370,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
     "appearance": {
       "color": "#6B3F23"
     },
@@ -2357,10 +3385,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -2396,8 +3439,14 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 36,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#B58500"
     },
@@ -2405,10 +3454,25 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -2444,8 +3508,14 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#F7A800"
     },
@@ -2453,10 +3523,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
       "AT_GRADE": 0.3,
+      "RAMP": 0.55,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Beijing Subway Rolling Stock Equipment"
+    ],
     "Manufacturer": [
       "Beijing Subway Rolling Stock Equipment"
     ]
@@ -2492,8 +3577,14 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 36,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
     "appearance": {
       "color": "#A7A8AA"
     },
@@ -2501,10 +3592,26 @@
       "DEEP_BORE": 4.2,
       "STANDARD_TUNNEL": 2.1,
       "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CNR Changchun",
+      "Bombardier Transportation"
+    ],
     "Manufacturer": [
       "CNR Changchun",
       "Bombardier Transportation"
@@ -2541,8 +3648,14 @@
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 35,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
     "appearance": {
       "color": "#B5BD00"
     },
@@ -2550,10 +3663,26 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.68,
       "AT_GRADE": 0.35,
+      "RAMP": 0.6,
       "ELEVATED": 0.85
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Tangshan",
+      "Beijing Enterprises Holdings Maglev"
+    ],
     "Manufacturer": [
       "CRRC Tangshan",
       "Beijing Enterprises Holdings Maglev"
@@ -2590,8 +3719,13 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
+    "compatibleTrackTypes": [
+      "tram"
+    ],
     "appearance": {
       "color": "#E40046"
     },
@@ -2599,10 +3733,25 @@
       "DEEP_BORE": 2.8,
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
+      "TRENCHED": 0.5,
       "AT_GRADE": 0.2,
+      "RAMP": 0.4,
       "ELEVATED": 0.6
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "CRRC"
+    ],
     "Manufacturer": [
       "CRRC"
     ]
@@ -2638,8 +3787,13 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
+    "compatibleTrackTypes": [
+      "tram"
+    ],
     "appearance": {
       "color": "#43B02A"
     },
@@ -2647,10 +3801,25 @@
       "DEEP_BORE": 2.8,
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
+      "TRENCHED": 0.5,
       "AT_GRADE": 0.2,
+      "RAMP": 0.4,
       "ELEVATED": 0.6
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "CRRC"
+    ],
     "Manufacturer": [
       "CRRC"
     ]

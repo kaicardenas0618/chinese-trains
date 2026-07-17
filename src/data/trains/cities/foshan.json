@@ -30,8 +30,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#D71920"
     },
@@ -39,10 +45,26 @@
       "DEEP_BORE": 3.8,
       "STANDARD_TUNNEL": 1.9,
       "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
       "AT_GRADE": 0.3,
+      "RAMP": 0.53,
       "ELEVATED": 0.75
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Foshan CRRC Sifang",
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "Foshan CRRC Sifang",
       "CRRC Qingdao Sifang"
@@ -79,8 +101,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#D71920"
     },
@@ -88,10 +116,26 @@
       "DEEP_BORE": 3.8,
       "STANDARD_TUNNEL": 1.9,
       "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
       "AT_GRADE": 0.3,
+      "RAMP": 0.53,
       "ELEVATED": 0.75
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Foshan CRRC Sifang",
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "Foshan CRRC Sifang",
       "CRRC Qingdao Sifang"
@@ -128,8 +172,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#0067B1"
     },
@@ -137,10 +187,27 @@
       "DEEP_BORE": 3.8,
       "STANDARD_TUNNEL": 1.9,
       "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
       "AT_GRADE": 0.3,
+      "RAMP": 0.53,
       "ELEVATED": 0.75
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Foshan CRRC Sifang",
+      "CRRC Qingdao Sifang",
+      "CRRC Guangdong"
+    ],
     "Manufacturer": [
       "Foshan CRRC Sifang",
       "CRRC Qingdao Sifang",
@@ -178,8 +245,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#8E44AD"
     },
@@ -187,10 +260,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.66,
       "AT_GRADE": 0.32,
+      "RAMP": 0.56,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC"
+    ],
     "Manufacturer": [
       "CRRC"
     ]
@@ -226,8 +314,14 @@
       "parallelTrackSpacing": 3.7,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
     "appearance": {
       "color": "#F6BE00"
     },
@@ -235,10 +329,25 @@
       "DEEP_BORE": 4.0,
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.66,
       "AT_GRADE": 0.32,
+      "RAMP": 0.56,
       "ELEVATED": 0.8
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC"
+    ],
     "Manufacturer": [
       "CRRC"
     ]
@@ -274,8 +383,13 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
+    "compatibleTrackTypes": [
+      "tram"
+    ],
     "appearance": {
       "color": "#00A3E0"
     },
@@ -283,10 +397,25 @@
       "DEEP_BORE": 2.8,
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
+      "TRENCHED": 0.5,
       "AT_GRADE": 0.2,
+      "RAMP": 0.4,
       "ELEVATED": 0.6
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -322,8 +451,13 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
+    "compatibleTrackTypes": [
+      "tram"
+    ],
     "appearance": {
       "color": "#00A3E0"
     },
@@ -331,10 +465,25 @@
       "DEEP_BORE": 2.8,
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
+      "TRENCHED": 0.5,
       "AT_GRADE": 0.2,
+      "RAMP": 0.4,
       "ELEVATED": 0.6
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang"
     ]
@@ -370,8 +519,13 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
+    "compatibleTrackTypes": [
+      "tram"
+    ],
     "appearance": {
       "color": "#4CA585"
     },
@@ -379,10 +533,26 @@
       "DEEP_BORE": 2.8,
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
+      "TRENCHED": 0.5,
       "AT_GRADE": 0.2,
+      "RAMP": 0.4,
       "ELEVATED": 0.6
     },
-    "allowAtGradeRoadCrossing": true,
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang",
+      "Škoda"
+    ],
     "Manufacturer": [
       "CRRC Qingdao Sifang",
       "Škoda"

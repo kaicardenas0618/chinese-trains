@@ -30,12 +30,45 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#F3D03E" },
-    "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Adtranz", "Siemens Mobility"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#F3D03E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.55,
+      "ELEVATED": 0.8
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "Adtranz",
+      "Siemens Mobility"
+    ],
+    "Manufacturer": [
+      "Adtranz",
+      "Siemens Mobility"
+    ]
   },
   {
     "id": "gz-a2-a",
@@ -68,12 +101,45 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#0067B1" },
-    "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CNR Changchun", "Bombardier Transportation"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#0067B1"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.55,
+      "ELEVATED": 0.8
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CNR Changchun",
+      "Bombardier Transportation"
+    ],
+    "Manufacturer": [
+      "CNR Changchun",
+      "Bombardier Transportation"
+    ]
   },
   {
     "id": "gz-a3-a",
@@ -106,12 +172,43 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#F3D03E" },
-    "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Changchun Bombardier"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#F3D03E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.55,
+      "ELEVATED": 0.8
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "Changchun Bombardier"
+    ],
+    "Manufacturer": [
+      "Changchun Bombardier"
+    ]
   },
   {
     "id": "gz-a4-a",
@@ -144,12 +241,43 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#0067B1" },
-    "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CSR Zhuzhou"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#0067B1"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.55,
+      "ELEVATED": 0.8
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CSR Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CSR Zhuzhou"
+    ]
   },
   {
     "id": "gz-a5-a",
@@ -172,7 +300,6 @@
       "baseTrackCost": 32000,
       "baseStationCost": 56000000,
       "trainOperationalCostPerHour": 250,
-      "carOperationalCostPerCar": 25,
       "carOperationalCostPerHour": 25,
       "scissorsCrossoverCost": 15000000,
       "trackClearance": 1.0,
@@ -183,12 +310,43 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#008C95" },
-    "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#008C95"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.55,
+      "ELEVATED": 0.8
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-a6-a",
@@ -221,12 +379,43 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#008C95" },
-    "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#008C95"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.55,
+      "ELEVATED": 0.8
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-a7-a",
@@ -259,12 +448,43 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 40,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#8D153A" },
-    "elevationMultipliers": { "DEEP_BORE": 4.3, "STANDARD_TUNNEL": 2.2, "CUT_AND_COVER": 1.1, "AT_GRADE": 0.38, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Dalian"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#8D153A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.3,
+      "STANDARD_TUNNEL": 2.2,
+      "CUT_AND_COVER": 1.1,
+      "TRENCHED": 0.74,
+      "AT_GRADE": 0.38,
+      "RAMP": 0.64,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Dalian"
+    ],
+    "Manufacturer": [
+      "CRRC Dalian"
+    ]
   },
   {
     "id": "gz-a8-a",
@@ -297,12 +517,43 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#008C95" },
-    "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Changchun"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#008C95"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.55,
+      "ELEVATED": 0.8
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
   },
   {
     "id": "gz-a9-a",
@@ -335,12 +586,43 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 38,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#7B6469" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.35, "ELEVATED": 0.85 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.7,
+      "AT_GRADE": 0.35,
+      "RAMP": 0.6,
+      "ELEVATED": 0.85
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-a10-a",
@@ -373,12 +655,43 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#59621D" },
-    "elevationMultipliers": { "DEEP_BORE": 4.0, "STANDARD_TUNNEL": 2.0, "CUT_AND_COVER": 1.0, "AT_GRADE": 0.3, "ELEVATED": 0.8 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#59621D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "TRENCHED": 0.65,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.55,
+      "ELEVATED": 0.8
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-a11-a",
@@ -411,12 +724,43 @@
       "parallelTrackSpacing": 4.0,
       "stopTimeSeconds": 40,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#8D153A" },
-    "elevationMultipliers": { "DEEP_BORE": 4.3, "STANDARD_TUNNEL": 2.2, "CUT_AND_COVER": 1.1, "AT_GRADE": 0.38, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Dalian"]
+    "compatibleTrackTypes": [
+      "metro-a",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#8D153A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.3,
+      "STANDARD_TUNNEL": 2.2,
+      "CUT_AND_COVER": 1.1,
+      "TRENCHED": 0.74,
+      "AT_GRADE": 0.38,
+      "RAMP": 0.64,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6500000,
+    "rampCost": 2500000,
+    "manufacturer": [
+      "CRRC Dalian"
+    ],
+    "Manufacturer": [
+      "CRRC Dalian"
+    ]
   },
   {
     "id": "gz-b1-b",
@@ -449,12 +793,45 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 31,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#F58220" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CSR Zhuzhou", "Siemens Mobility"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CSR Zhuzhou",
+      "Siemens Mobility"
+    ],
+    "Manufacturer": [
+      "CSR Zhuzhou",
+      "Siemens Mobility"
+    ]
   },
   {
     "id": "gz-b2-b",
@@ -487,12 +864,43 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#F58220" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-b3-dkz29-b",
@@ -525,12 +933,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 28,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#B7BF10" },
-    "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Changchun"]
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#B7BF10"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "TRENCHED": 0.59,
+      "AT_GRADE": 0.28,
+      "RAMP": 0.49,
+      "ELEVATED": 0.7
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
   },
   {
     "id": "gz-b3-i-sfm27-b",
@@ -563,12 +1002,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 28,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#B7BF10" },
-    "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Qingdao Sifang"]
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#B7BF10"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "TRENCHED": 0.59,
+      "AT_GRADE": 0.28,
+      "RAMP": 0.49,
+      "ELEVATED": 0.7
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
   },
   {
     "id": "gz-b3-ii-sfm77-b",
@@ -601,12 +1071,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 28,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#B7BF10" },
-    "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Foshan CRRC Sifang"]
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#B7BF10"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "TRENCHED": 0.59,
+      "AT_GRADE": 0.28,
+      "RAMP": 0.49,
+      "ELEVATED": 0.7
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Foshan CRRC Sifang"
+    ],
+    "Manufacturer": [
+      "Foshan CRRC Sifang"
+    ]
   },
   {
     "id": "gz-b4-b",
@@ -639,12 +1140,43 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#F58220" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-b5-b",
@@ -677,12 +1209,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#97D700" },
-    "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Guangzhou CRRC"]
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#97D700"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "TRENCHED": 0.59,
+      "AT_GRADE": 0.28,
+      "RAMP": 0.49,
+      "ELEVATED": 0.7
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "Guangzhou CRRC"
+    ],
+    "Manufacturer": [
+      "Guangzhou CRRC"
+    ]
   },
   {
     "id": "gz-b6-b",
@@ -715,12 +1278,43 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#71C5E8" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Guangzhou CRRC"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#71C5E8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "Guangzhou CRRC"
+    ],
+    "Manufacturer": [
+      "Guangzhou CRRC"
+    ]
   },
   {
     "id": "gz-b7-b",
@@ -753,12 +1347,43 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#81312F" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Guangzhou CRRC"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#81312F"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "Guangzhou CRRC"
+    ],
+    "Manufacturer": [
+      "Guangzhou CRRC"
+    ]
   },
   {
     "id": "gz-b8-b",
@@ -791,12 +1416,43 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#201747" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Guangzhou CRRC"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#201747"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "Guangzhou CRRC"
+    ],
+    "Manufacturer": [
+      "Guangzhou CRRC"
+    ]
   },
   {
     "id": "gz-b9-sfm72-b",
@@ -829,12 +1485,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#97D700" },
-    "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Qingdao Sifang"]
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#97D700"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "TRENCHED": 0.59,
+      "AT_GRADE": 0.28,
+      "RAMP": 0.49,
+      "ELEVATED": 0.7
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
   },
   {
     "id": "gz-b10-b",
@@ -867,12 +1554,43 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#F58220" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-b11-ccd5059-b",
@@ -905,12 +1623,43 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#F58220" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Changchun"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CRRC Changchun"
+    ],
+    "Manufacturer": [
+      "CRRC Changchun"
+    ]
   },
   {
     "id": "gz-b12-b",
@@ -943,12 +1692,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#97D700" },
-    "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#97D700"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "TRENCHED": 0.59,
+      "AT_GRADE": 0.28,
+      "RAMP": 0.49,
+      "ELEVATED": 0.7
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-b13-b",
@@ -981,12 +1761,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
     },
-    "appearance": { "color": "#8B6F4E" },
-    "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "metro-b",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#8B6F4E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "TRENCHED": 0.59,
+      "AT_GRADE": 0.28,
+      "RAMP": 0.49,
+      "ELEVATED": 0.7
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 400000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 6000000,
+    "rampCost": 2300000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-b14-b",
@@ -1019,12 +1830,43 @@
       "parallelTrackSpacing": 3.9,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#81312F" },
-    "elevationMultipliers": { "DEEP_BORE": 4.2, "STANDARD_TUNNEL": 2.1, "CUT_AND_COVER": 1.05, "AT_GRADE": 0.36, "ELEVATED": 0.9 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Guangzhou CRRC"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#81312F"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.2,
+      "STANDARD_TUNNEL": 2.1,
+      "CUT_AND_COVER": 1.05,
+      "TRENCHED": 0.71,
+      "AT_GRADE": 0.36,
+      "RAMP": 0.63,
+      "ELEVATED": 0.9
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "Guangzhou CRRC"
+    ],
+    "Manufacturer": [
+      "Guangzhou CRRC"
+    ]
   },
   {
     "id": "gz-d1-high-speed-metro",
@@ -1057,12 +1899,43 @@
       "parallelTrackSpacing": 4.4,
       "stopTimeSeconds": 45,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#0067B1" },
-    "elevationMultipliers": { "DEEP_BORE": 4.8, "STANDARD_TUNNEL": 2.5, "CUT_AND_COVER": 1.3, "AT_GRADE": 0.45, "ELEVATED": 1.05 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#0067B1"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.8,
+      "STANDARD_TUNNEL": 2.5,
+      "CUT_AND_COVER": 1.3,
+      "TRENCHED": 0.88,
+      "AT_GRADE": 0.45,
+      "RAMP": 0.75,
+      "ELEVATED": 1.05
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-d2-high-speed-metro",
@@ -1095,12 +1968,45 @@
       "parallelTrackSpacing": 4.4,
       "stopTimeSeconds": 45,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 11.1
     },
-    "appearance": { "color": "#F28C28" },
-    "elevationMultipliers": { "DEEP_BORE": 4.8, "STANDARD_TUNNEL": 2.5, "CUT_AND_COVER": 1.3, "AT_GRADE": 0.45, "ELEVATED": 1.05 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Guangzhou CRRC", "CRRC Zhuzhou"]
+    "compatibleTrackTypes": [
+      "express-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#F28C28"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.8,
+      "STANDARD_TUNNEL": 2.5,
+      "CUT_AND_COVER": 1.3,
+      "TRENCHED": 0.88,
+      "AT_GRADE": 0.45,
+      "RAMP": 0.75,
+      "ELEVATED": 1.05
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 550000,
+    "gradeCrossingMaintenancePerYear": 11000,
+    "gradeCrossingTphLimit": {
+      "highway": 4,
+      "major": 8,
+      "medium": 14,
+      "minor": 22
+    },
+    "portalCost": 7500000,
+    "rampCost": 3200000,
+    "manufacturer": [
+      "Guangzhou CRRC",
+      "CRRC Zhuzhou"
+    ],
+    "Manufacturer": [
+      "Guangzhou CRRC",
+      "CRRC Zhuzhou"
+    ]
   },
   {
     "id": "gz-l1-sfm03-lb-linear",
@@ -1133,12 +2039,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
-    "appearance": { "color": "#00843D" },
-    "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Qingdao Sifang"]
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#00843D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.53,
+      "ELEVATED": 0.75
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
   },
   {
     "id": "gz-l2-sfm08-lb-linear",
@@ -1171,12 +2108,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
-    "appearance": { "color": "#C5003E" },
-    "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Qingdao Sifang"]
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#C5003E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.53,
+      "ELEVATED": 0.75
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
   },
   {
     "id": "gz-l3-sfm15-lb-linear",
@@ -1209,12 +2177,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
-    "appearance": { "color": "#80276C" },
-    "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Qingdao Sifang"]
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#80276C"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.53,
+      "ELEVATED": 0.75
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
   },
   {
     "id": "gz-l4-sfm19-lb-linear",
@@ -1247,12 +2246,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
-    "appearance": { "color": "#C5003E" },
-    "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Qingdao Sifang"]
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#C5003E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.53,
+      "ELEVATED": 0.75
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Qingdao Sifang"
+    ],
+    "Manufacturer": [
+      "CRRC Qingdao Sifang"
+    ]
   },
   {
     "id": "gz-l5-sfm37-lb-linear",
@@ -1285,12 +2315,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
-    "appearance": { "color": "#00843D" },
-    "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Guangdong"]
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#00843D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.53,
+      "ELEVATED": 0.75
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Guangdong"
+    ],
+    "Manufacturer": [
+      "CRRC Guangdong"
+    ]
   },
   {
     "id": "gz-l6-sfm76-lb-linear",
@@ -1323,12 +2384,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
-    "appearance": { "color": "#80276C" },
-    "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Guangdong"]
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#80276C"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.53,
+      "ELEVATED": 0.75
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Guangdong"
+    ],
+    "Manufacturer": [
+      "CRRC Guangdong"
+    ]
   },
   {
     "id": "gz-l7-sfm97-lb-linear",
@@ -1361,12 +2453,43 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.0
     },
-    "appearance": { "color": "#C5003E" },
-    "elevationMultipliers": { "DEEP_BORE": 3.8, "STANDARD_TUNNEL": 1.9, "CUT_AND_COVER": 0.95, "AT_GRADE": 0.3, "ELEVATED": 0.75 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC Guangdong"]
+    "compatibleTrackTypes": [
+      "linear-metro",
+      "metro"
+    ],
+    "appearance": {
+      "color": "#C5003E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "TRENCHED": 0.62,
+      "AT_GRADE": 0.3,
+      "RAMP": 0.53,
+      "ELEVATED": 0.75
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 18,
+      "minor": 28
+    },
+    "portalCost": 5500000,
+    "rampCost": 2200000,
+    "manufacturer": [
+      "CRRC Guangdong"
+    ],
+    "Manufacturer": [
+      "CRRC Guangdong"
+    ]
   },
   {
     "id": "gz-apm100-apm",
@@ -1399,12 +2522,42 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 20,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
-    "appearance": { "color": "#00A3E0" },
-    "elevationMultipliers": { "DEEP_BORE": 3.6, "STANDARD_TUNNEL": 1.8, "CUT_AND_COVER": 0.9, "AT_GRADE": 0.28, "ELEVATED": 0.7 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["Bombardier Transportation"]
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "TRENCHED": 0.59,
+      "AT_GRADE": 0.28,
+      "RAMP": 0.49,
+      "ELEVATED": 0.7
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "Bombardier Transportation"
+    ],
+    "Manufacturer": [
+      "Bombardier Transportation"
+    ]
   },
   {
     "id": "gz-thz1-tram",
@@ -1437,12 +2590,42 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
-    "appearance": { "color": "#43B02A" },
-    "elevationMultipliers": { "DEEP_BORE": 2.8, "STANDARD_TUNNEL": 1.5, "CUT_AND_COVER": 0.8, "AT_GRADE": 0.2, "ELEVATED": 0.6 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC"]
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "TRENCHED": 0.5,
+      "AT_GRADE": 0.2,
+      "RAMP": 0.4,
+      "ELEVATED": 0.6
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "CRRC"
+    ],
+    "Manufacturer": [
+      "CRRC"
+    ]
   },
   {
     "id": "gz-thp1-tram",
@@ -1475,12 +2658,42 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
-    "appearance": { "color": "#43B02A" },
-    "elevationMultipliers": { "DEEP_BORE": 2.8, "STANDARD_TUNNEL": 1.5, "CUT_AND_COVER": 0.8, "AT_GRADE": 0.2, "ELEVATED": 0.6 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC"]
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "TRENCHED": 0.5,
+      "AT_GRADE": 0.2,
+      "RAMP": 0.4,
+      "ELEVATED": 0.6
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "CRRC"
+    ],
+    "Manufacturer": [
+      "CRRC"
+    ]
   },
   {
     "id": "gz-thp2-tram",
@@ -1513,11 +2726,41 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 4.5
     },
-    "appearance": { "color": "#43B02A" },
-    "elevationMultipliers": { "DEEP_BORE": 2.8, "STANDARD_TUNNEL": 1.5, "CUT_AND_COVER": 0.8, "AT_GRADE": 0.2, "ELEVATED": 0.6 },
-    "allowAtGradeRoadCrossing": true,
-    "Manufacturer": ["CRRC"]
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "TRENCHED": 0.5,
+      "AT_GRADE": 0.2,
+      "RAMP": 0.4,
+      "ELEVATED": 0.6
+    },
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 200000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 20,
+      "minor": 32
+    },
+    "portalCost": 3000000,
+    "rampCost": 1000000,
+    "manufacturer": [
+      "CRRC"
+    ],
+    "Manufacturer": [
+      "CRRC"
+    ]
   }
 ]
